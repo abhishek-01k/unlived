@@ -1,0 +1,52 @@
+[
+  {
+    "userSkill": "Web3 Development",
+    "vocabSkill": "Web3 Libraries",
+    "closeness": "exact"
+  },
+  {
+    "userSkill": "Web3 Development",
+    "vocabSkill": "Blockchain Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "userSkill": "Web3 Development",
+    "vocabSkill": "Solidity",
+    "closeness": "partial"
+  },
+  {
+    "userSkill": "Web3 Development",
+    "vocabSkill": "Smart Contract Security",
+    "closeness": "partial"
+  },
+  {
+    "userSkill": "Backend Services",
+    "vocabSkill": "API Design",
+    "closeness": "related"
+  },
+  {
+    "userSkill": "Backend Services",
+    "vocabSkill": "Data Pipelines",
+    "closeness": "related"
+  },
+  {
+    "userSkill": "Backend Services",
+    "vocabSkill": "Node.js",
+    "closeness": "partial"
+  },
+  {
+    "userSkill": "Backend Services",
+    "vocabSkill": "Databases",
+    "closeness": "partial"
+  },
+  {
+    "userSkill": "Backend Services",
+    "vocabSkill": "Distributed Systems",
+    "closeness": "partial"
+  },
+  {
+    "userSkill": "Docker",
+    "vocabSkill": "Docker / Kubernetes",
+    "closeness": "related"
+  }
+]

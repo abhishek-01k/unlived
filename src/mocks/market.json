@@ -1,0 +1,706 @@
+{
+  "signals": [
+    {
+      "fieldId": "frontend",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.6,
+      "reason": "Senior and design-engineering roles keep hiring; junior UI work is the most exposed to AI tools.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/frontend"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "design-engineer",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "More companies hire for UI craft as AI makes basic UI cheap.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/design-engineer"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "backend",
+      "demand": 0.65,
+      "trend": "stable",
+      "aiRisk": 0.4,
+      "reason": "Steady demand for engineers who can design reliable services.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/backend"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "fullstack",
+      "demand": 0.65,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Startups keep hiring generalists who ship end to end.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/fullstack"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "mobile",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.4,
+      "reason": "Stable demand, concentrated in consumer apps and fintech.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/mobile"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "game-dev",
+      "demand": 0.35,
+      "trend": "shrinking",
+      "aiRisk": 0.35,
+      "reason": "Industry layoffs; competitive market with lower pay.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/game-dev"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "embedded-iot",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.2,
+      "reason": "Steady demand in automotive, devices and hardware.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/embedded-iot"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "founding-engineer",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "AI startups are forming fast and hire generalists who ship.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/founding-engineer"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "ai-engineering",
+      "demand": 0.9,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Fastest-growing engineering role; product engineers who can ship LLM features are in demand.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/ai-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "ml-engineering",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Strong demand, but competitive and often wants ML depth.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/ml-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "mlops",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "GPU and model infrastructure work is growing with AI adoption.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/mlops"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "data-science",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Demand has shifted toward ML and AI engineering.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/data-science"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "data-engineering",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "AI raises demand for clean data pipelines.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/data-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "data-analytics",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.55,
+      "reason": "Routine reporting is being automated; analysis roles hold up.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/data-analytics"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "analytics-engineering",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.4,
+      "reason": "Steady demand at data-mature companies.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/analytics-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "ai-research",
+      "demand": 0.6,
+      "trend": "growing",
+      "aiRisk": 0.1,
+      "reason": "Very high pay but very few roles, mostly for PhDs.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/ai-research"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "devops",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Steady demand; overlaps more with platform engineering.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/devops"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "platform-engineering",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "Companies invest in internal platforms and AI infrastructure.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/platform-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "sre",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Reliability stays critical as systems grow.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/sre"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "cloud-architect",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Cloud migration and cost work keep demand steady.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/cloud-architect"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "database-engineering",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Specialist demand, stable.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/database-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "network-engineering",
+      "demand": 0.45,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Stable but slower-growing; moving to cloud networking.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/network-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "appsec",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Security spending rises with AI-generated code.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/appsec"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "security-analyst",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Many openings; alert triage is increasingly automated.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/security-analyst"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "pentester",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Steady demand; certifications matter.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/pentester"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "smart-contract-auditor",
+      "demand": 0.45,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Niche, follows crypto cycles, pays well for top auditors.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/smart-contract-auditor"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "smart-contract-engineer",
+      "demand": 0.4,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Hiring follows crypto market cycles.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/smart-contract-engineer"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "web3-frontend",
+      "demand": 0.4,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Hiring follows crypto cycles; frontend skills transfer well.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/web3-frontend"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "protocol-engineering",
+      "demand": 0.4,
+      "trend": "stable",
+      "aiRisk": 0.2,
+      "reason": "Small number of deep systems roles.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/protocol-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "qa-automation",
+      "demand": 0.45,
+      "trend": "shrinking",
+      "aiRisk": 0.6,
+      "reason": "Test writing is being automated; quality engineering roles remain.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/qa-automation"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "performance-engineering",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Specialist demand at scale companies.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/performance-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "product-management",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Competitive; AI product experience is a plus.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/product-management"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "technical-pm",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "AI and developer-tool companies want technical PMs.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/technical-pm"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "product-design",
+      "demand": 0.45,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Competitive; designers who code have an edge.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/product-design"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "ux-research",
+      "demand": 0.35,
+      "trend": "shrinking",
+      "aiRisk": 0.4,
+      "reason": "Fewer dedicated research roles after recent cuts.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/ux-research"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "product-analytics",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.5,
+      "reason": "Steady demand, partly automated by analytics tools.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/product-analytics"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "growth-engineering",
+      "demand": 0.6,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "Startups invest in activation and monetisation engineering.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/growth-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "devrel",
+      "demand": 0.55,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "AI and developer-tool companies are expanding DevRel teams.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/devrel"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "technical-writing",
+      "demand": 0.4,
+      "trend": "shrinking",
+      "aiRisk": 0.65,
+      "reason": "Basic docs are being automated; docs-as-product roles remain.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/technical-writing"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "solutions-engineering",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Every AI and infra company needs technical sellers.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/solutions-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "devex",
+      "demand": 0.55,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "Platforms compete on developer experience.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/devex"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "customer-success-engineering",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Steady demand; support is partly automated.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/customer-success-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "engineering-management",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.2,
+      "reason": "Fewer manager roles after flattening, still well paid.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/engineering-management"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "staff-engineer",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.15,
+      "reason": "Senior technical leaders stay in demand.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/staff-engineer"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "solutions-architect",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.25,
+      "reason": "Cloud and AI adoption keep demand steady.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/solutions-architect"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "cto-cofounder",
+      "demand": 0.55,
+      "trend": "growing",
+      "aiRisk": 0.15,
+      "reason": "Many AI startups are forming; outcomes vary widely.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/cto-cofounder"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "freelance-agency",
+      "demand": 0.5,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "AI tools speed up delivery; competition for clients is rising.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/freelance-agency"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "indie-hacker",
+      "demand": 0.5,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "AI makes solo products cheaper to build; distribution is the hard part.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/indie-hacker"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "content-creator",
+      "demand": 0.45,
+      "trend": "stable",
+      "aiRisk": 0.4,
+      "reason": "Crowded, but trusted tech voices still grow.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/content-creator"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "fieldId": "tech-consulting",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.25,
+      "reason": "AI strategy work is driving consulting demand.",
+      "sources": [
+        {
+          "title": "Mock source (replaced by Tavily results)",
+          "url": "https://example.com/mock/tech-consulting"
+        }
+      ],
+      "fetchedAt": "2026-10-18T00:00:00.000Z"
+    }
+  ],
+  "liveIds": [],
+  "failed": []
+}

@@ -1,0 +1,54 @@
+{
+  "letter": {
+    "fieldId": "ai-engineering",
+    "title": "From you, October 2027",
+    "body": "Hey, it's you, a year from now. The move into AI engineering worked, and it didn't mean throwing away four years of frontend. Teams wanted someone who could build the agent and the interface people actually use, and almost nobody else in the interview loops could do both. Omnitutor and Fluxdev were the proof: real users, real AI features, shipped end to end. The hard part was the boring part. Python and evals took longer than you expected, and for a few months you felt like a junior again. What got you through was what always worked at hackathons: ship something small every week and show it. You now lead the product side of an AI team, and you still spend half your time on the frontend. Keep building in public."
+  },
+  "roadmap": {
+    "fieldId": "ai-engineering",
+    "months": [
+      {
+        "month": 1,
+        "theme": "Close the Python gap",
+        "learn": ["Python for AI work: typing, async, FastAPI basics"],
+        "build": ["Port one Omnitutor feature's AI logic to a small Python service"],
+        "apply": []
+      },
+      {
+        "month": 2,
+        "theme": "Retrieval done properly",
+        "learn": ["Chunking, embeddings, hybrid search and reranking"],
+        "build": ["A RAG feature with measurable answer quality"],
+        "apply": []
+      },
+      {
+        "month": 3,
+        "theme": "Evals",
+        "learn": ["Writing eval sets and LLM-as-judge grading"],
+        "build": ["An eval suite for Omnitutor's quiz generation, tracked in Langfuse"],
+        "apply": ["Write up the results as a public case study"]
+      },
+      {
+        "month": 4,
+        "theme": "Agents in production",
+        "learn": ["Tool use, agent loops, failure handling and cost control"],
+        "build": ["An agent feature in Fluxdev with tests and monitoring"],
+        "apply": ["Reach out to 10 AI engineers for referrals and feedback"]
+      },
+      {
+        "month": 5,
+        "theme": "Show the combination",
+        "learn": ["Streaming UX patterns for AI products"],
+        "build": ["A polished demo that pairs a strong AI backend with your frontend craft"],
+        "apply": ["Apply to 15 AI engineer roles at product-focused companies"]
+      },
+      {
+        "month": 6,
+        "theme": "Interview and land",
+        "learn": ["AI system design interview patterns"],
+        "build": ["A short portfolio page: Omnitutor, Fluxdev, evals case study"],
+        "apply": ["Run interview loops; aim for 2 offers to compare"]
+      }
+    ]
+  }
+}

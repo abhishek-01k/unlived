@@ -1,0 +1,1324 @@
+{
+  "signals": [
+    {
+      "fieldId": "frontend",
+      "demand": 0.45,
+      "trend": "shrinking",
+      "aiRisk": 0.65,
+      "reason": "Pure frontend roles are disappearing as companies consolidate around full-stack engineers and AI automates routine UI implementation tasks.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "State of the software engineering job market in 2026, part 2",
+          "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2"
+        },
+        {
+          "title": "Frontend isn't Dead. Your Focus Needs to Change. · Formation Blog",
+          "url": "https://formation.dev/blog/frontend-isnt-dead-but-your-focus-needs-to-change"
+        },
+        {
+          "title": "Is Frontend Development a Good Career in 2026? An Honest Breakdown | Blog",
+          "url": "https://www.greatfrontend.com/blog/is-frontend-development-a-good-career"
+        },
+        {
+          "title": "Frontend Job Market in 2026: Skills and Trends to Thrive | Sakshi Gawande posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/sakshi-gawande_the-frontend-job-market-in-2026-looks-nothing-activity-7407634539352592385-yC8q"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:48.491Z"
+    },
+    {
+      "fieldId": "design-engineer",
+      "demand": 0.65,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Design engineers remain needed for polished interactions and design systems, but AI automates routine prototyping and layout tasks, shifting value toward high-end craft and AI product design.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "AI's Impact On Engineering Jobs May Be Different Than Expected",
+          "url": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections"
+        },
+        {
+          "title": "Is AI going to steal my job as a design engineer?",
+          "url": "https://twilson.net/writing/ai-design-engineer"
+        },
+        {
+          "title": "The Four Design Jobs AI Created (So Far) - NN/G",
+          "url": "https://www.nngroup.com/articles/design-jobs-ai-created"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:48.811Z"
+    },
+    {
+      "fieldId": "backend",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "General backend demand is stable but bifurcating; AI automates routine coding while increasing need for senior architects who design scalable, secure systems.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "[February 2026] Tech Job Market Trends Monthly | Zero To Mastery",
+          "url": "https://zerotomastery.io/blog/tech-job-market-trends-monthly-february-2026"
+        },
+        {
+          "title": "State of the software engineering job market in 2026",
+          "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026"
+        },
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        },
+        {
+          "title": "Tech Job Market 2026: Layoffs, AI Salaries, and Hiring Data - Pin",
+          "url": "https://www.pin.com/blog/tech-job-market-report"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:48.579Z"
+    },
+    {
+      "fieldId": "fullstack",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "Full-stack engineers remain versatile and valued in startups, but general demand lags behind AI roles and junior hiring is soft.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "State of the software engineering job market in 2026, part 2",
+          "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2"
+        },
+        {
+          "title": "Tech Job Market 2026: Layoffs, AI Salaries, and Hiring Data - Pin",
+          "url": "https://www.pin.com/blog/tech-job-market-report"
+        },
+        {
+          "title": "Best IT Careers in 2026: Skills, Salaries & Career Roadmap",
+          "url": "https://cambridgeinfotech.io/best-it-careers-in-2026-skills-salaries-career-roadmap"
+        },
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:48.553Z"
+    },
+    {
+      "fieldId": "mobile",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Mobile demand is rising with cross-platform growth, but AI automates routine coding, shifting value to platform-deep and product-focused skills.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        },
+        {
+          "title": "[January 2026] Tech Job Market Trends Monthly | Zero To Mastery",
+          "url": "https://zerotomastery.io/blog/tech-job-market-trends-monthly-january-2026"
+        },
+        {
+          "title": "Will AI Replace Mobile Developer Jobs? | JobZone Risk",
+          "url": "https://jobzonerisk.com/roles/mobile-developer"
+        },
+        {
+          "title": "AI Is Replacing iOS Developers — Here Is What Actually Survives | by Tony Trejo | CodeX | Medium",
+          "url": "https://medium.com/codex/ai-is-replacing-ios-developers-here-is-what-actually-survives-1f0c1487f7dd"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:48.574Z"
+    },
+    {
+      "fieldId": "game-dev",
+      "demand": 0.3,
+      "trend": "shrinking",
+      "aiRisk": 0.35,
+      "reason": "Job postings dropped 50-65% monthly while AI boosts productivity, reducing headcount needs despite market revenue growth.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "[January 2026] Tech Job Market Trends Monthly | Zero To Mastery",
+          "url": "https://zerotomastery.io/blog/tech-job-market-trends-monthly-january-2026"
+        },
+        {
+          "title": "AI In Game Development: How AI Is Transforming The Game Dev Workflow | GIANTY",
+          "url": "https://www.gianty.com/ai-in-game-development-workflow"
+        },
+        {
+          "title": "Here are the 12 titles, each 50 characters or fewer, summarizing the original post: 1. Games Industry Predictions for 2026: Hiring to Accelerate 2. Games Industry Layoffs to Remain Steady in 2026 3.… | Amir Satvat posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/amirsatvat_games-industry-predictions-for-2026-i-want-activity-7404140277898313728-wzMJ"
+        },
+        {
+          "title": "AI in Game Development: 2026 Guide",
+          "url": "https://www.lorienglobal.com/insights/ai-in-game-development-what-it-means-for-developers-in-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:51.160Z"
+    },
+    {
+      "fieldId": "embedded-iot",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "IoT, edge AI, and automotive expansion drive strong hiring for engineers who blend firmware depth with cloud and ML integration.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "How to Hire IoT Engineers in 2026 - KORE1",
+          "url": "https://www.kore1.com/hire-iot-engineers-2026"
+        },
+        {
+          "title": "Top 20 Career Opportunities in Software Engineering in 2026",
+          "url": "https://www.jobaajlearnings.com/blog/top-20-career-opportunities-in-software-engineeringin2026"
+        },
+        {
+          "title": "Embedded Systems Job Roadmap 2026: Secure a High-Paying Core Job | M K Jeevarajan posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/jeevarajan_embeddedsystems-careerroadmap-electronicsengineering-activity-7443892446989807616-r1WA"
+        },
+        {
+          "title": "Embedded Systems Jobs in the Age of AI: A 2026 Career Guide",
+          "url": "https://www.techveda.live/2026/02/15/the-future-of-embedded-system-jobs-in-the-age-of-ai"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:51.185Z"
+    },
+    {
+      "fieldId": "founding-engineer",
+      "demand": 0.9,
+      "trend": "growing",
+      "aiRisk": 0.15,
+      "reason": "AI-native startups compete fiercely for founding engineers who can ship products using AI tools, driving record compensation and multi-offer situations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "2026 Founding Engineer Hiring Report | Seed–Series A",
+          "url": "https://recruitslab.com/market-reports/founding-engineer-hiring-report-2026"
+        },
+        {
+          "title": "What is a Founding Engineer? Role, Equity & Salary | Tech StaQ",
+          "url": "https://techstaq.io/the-rise-of-the-founding-engineer"
+        },
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        },
+        {
+          "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+          "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:51.121Z"
+    },
+    {
+      "fieldId": "ai-engineering",
+      "demand": 0.9,
+      "trend": "growing",
+      "aiRisk": 0.15,
+      "reason": "AI engineer demand surged 143% YoY with a 3.2:1 talent gap and steady weekly postings above 1,500, while AI augments rather than replaces this role.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Inside the AI Engineering Job Market: 43,500 Postings Analyzed",
+          "url": "https://axialsearch.com/insights/ai-engineering-jobs"
+        },
+        {
+          "title": "AI Engineer Demand 2026: 143% YoY, 3.2:1 Gap",
+          "url": "https://www.futureproofing.dev/resources/ai-talent-gap/ai-engineer-demand-2026"
+        },
+        {
+          "title": "AI Engineering Career Path: Complete Guide for 2026",
+          "url": "https://www.dataexpert.io/blog/ai-engineering-career-path-complete-guide-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:51.109Z"
+    },
+    {
+      "fieldId": "ml-engineering",
+      "demand": 0.9,
+      "trend": "growing",
+      "aiRisk": 0.1,
+      "reason": "ML Engineer postings surged 40-59% year-over-year, represent 45% of AI roles, and are essential for deploying production models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "The State of the ML Engineering Job Market in 2026",
+          "url": "https://axialsearch.com/insights/ml-engineering-jobs"
+        },
+        {
+          "title": "Fastest Growing AI Roles in 2026: Data and Rankings",
+          "url": "https://www.herohunt.ai/blog/fastest-growing-ai-roles-in-2026-data-and-rankings"
+        },
+        {
+          "title": "Tech Job Market 2026: Layoffs, AI Salaries, and Hiring Data - Pin",
+          "url": "https://www.pin.com/blog/tech-job-market-report"
+        },
+        {
+          "title": "I analyzed 180M jobs to see what jobs AI is actually replacing today",
+          "url": "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:51.112Z"
+    },
+    {
+      "fieldId": "mlops",
+      "demand": 0.75,
+      "trend": "stable",
+      "aiRisk": 0.2,
+      "reason": "Steady weekly postings and high salaries show mature demand; AI automates pipeline boilerplate but increases need for engineers who orchestrate reliable ML systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "How Hot Is the MLOps Job Market in 2026?",
+          "url": "https://axialsearch.com/insights/mlops-jobs"
+        },
+        {
+          "title": "Fastest Growing AI Roles in 2026: Data and Rankings",
+          "url": "https://www.herohunt.ai/blog/fastest-growing-ai-roles-in-2026-data-and-rankings"
+        },
+        {
+          "title": "The Impact of AI on Engineering Job Roles - Ernest Gordon Recruitment",
+          "url": "https://www.ernestgordonrecruitment.com/blog/the-impact-of-ai-on-engineering-job-roles"
+        },
+        {
+          "title": "How to become an MLOps engineer in 2026 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/ai-and-data/how-become-an-mlops-engineer"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:54.030Z"
+    },
+    {
+      "fieldId": "data-science",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "BLS projects 34.6% growth through 2035 with 24,800 annual openings, while AI automates routine tasks but increases demand for hybrid AI/analytics skills at mid-senior levels.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "January Data Science Job Market Report (2026)",
+          "url": "https://www.interviewquery.com/p/jan-data-science-job-market-report"
+        },
+        {
+          "title": "Data Scientist Recruitment: The Essential 2026 Guide - Pin",
+          "url": "https://www.pin.com/blog/data-scientist-recruitment-guide"
+        },
+        {
+          "title": "Who's Hiring Data Scientists in 2026",
+          "url": "https://axialsearch.com/insights/data-science-hiring"
+        },
+        {
+          "title": "AI + Data Scientist Job Market in 2026: Analysis, Trends | Andres Vourakis | 54 comments",
+          "url": "https://www.linkedin.com/posts/andresvourakis_ai-data-scientist-job-market-in-2026-analysis-activity-7417586666867105792-2x6w"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:53.988Z"
+    },
+    {
+      "fieldId": "data-engineering",
+      "demand": 0.8,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Data engineering roles grew 23% YoY with 260K US openings, and AI is expanding responsibilities rather than replacing engineers.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "How to Get Hired as a Data Engineer in 2026 - jobstrack.io",
+          "url": "https://jobstrack.io/blog/roles/data-engineer"
+        },
+        {
+          "title": "The State of the Data Engineering Job Market in 2026",
+          "url": "https://axialsearch.com/insights/data-engineering-jobs"
+        },
+        {
+          "title": "AI in Data Engineering: AI's Impact on Data Engineers | Coalesce",
+          "url": "https://coalesce.io/data-insights/ai-in-data-engineering"
+        },
+        {
+          "title": "Will AI Replace Data Engineers? An Honest Answer From Someone Who’s Been in the Field 14 Years | by Priyanka Shelar | Medium",
+          "url": "https://medium.com/@priyankashelar589/will-ai-replace-data-engineers-an-honest-answer-from-someone-whos-been-in-the-field-14-years-3da3760dbb4d"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:53.962Z"
+    },
+    {
+      "fieldId": "data-analytics",
+      "demand": 0.8,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Strong market growth and new AI-assisted roles boost hiring, while routine tasks are automated, shifting value to business insight and interpretation.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Should You Become a Data Analyst in 2026? | by IsraelTheAnalyst | Medium",
+          "url": "https://medium.com/@israeltheanalyst01/should-you-become-a-data-analyst-in-2026-bc0473eed805"
+        },
+        {
+          "title": "Data Analyst Job Outlook 2026: Growth, Salaries & Career Guide",
+          "url": "https://skillifysolutions.com/blogs/data-science/data-analyst-job-outlook"
+        },
+        {
+          "title": "Data Analyst Job Market Trends 2026 | Avery Smith posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/averyjsmith_2026-data-predictions-activity-7414312339925274625-6l4a"
+        },
+        {
+          "title": "Why AI Data Analysts Are in Massive Demand in 2026",
+          "url": "https://workforceinstitute.io/generative-ai/why-ai-data-analysts-are-in-massive-demand-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:54.044Z"
+    },
+    {
+      "fieldId": "analytics-engineering",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Analytics engineering roles show strong headcount growth and expanding responsibilities as AI increases data complexity rather than replacing these roles.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "How to Get Hired as a Data Engineer in 2026 - jobstrack.io",
+          "url": "https://jobstrack.io/blog/roles/data-engineer"
+        },
+        {
+          "title": "AI in Data Engineering: AI's Impact on Data Engineers | Coalesce",
+          "url": "https://coalesce.io/data-insights/ai-in-data-engineering"
+        },
+        {
+          "title": "Will AI Replace Data Jobs? Engineers & Analysts",
+          "url": "https://www.blog.datawithbaraa.com/p/will-ai-replace-data-jobs-engineers"
+        },
+        {
+          "title": "How AI is Transforming Data Engineering | Databricks Blog",
+          "url": "https://www.databricks.com/blog/how-ai-transforming-data-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:54.041Z"
+    },
+    {
+      "fieldId": "ai-research",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.15,
+      "reason": "High demand from frontier labs and rising AI-skill postings, but role stays niche and senior.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Fastest Growing AI Roles in 2026: Data and Rankings",
+          "url": "https://www.herohunt.ai/blog/fastest-growing-ai-roles-in-2026-data-and-rankings"
+        },
+        {
+          "title": "Data Scientist Recruitment: The Essential 2026 Guide - Pin",
+          "url": "https://www.pin.com/blog/data-scientist-recruitment-guide"
+        },
+        {
+          "title": "10 Highest-Paying AI Jobs & Salaries in 2026",
+          "url": "https://ischool.syracuse.edu/highest-paying-ai-jobs"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:56.725Z"
+    },
+    {
+      "fieldId": "devops",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Strong cloud migration and automation demand drive 15-20% annual growth, while AI augments rather than replaces DevOps engineers.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "DevOps Job Market 2026: Salaries, Skills & Hiring Trends",
+          "url": "https://hackerx.org/devops-job-market-2026-trends-and-opportunities"
+        },
+        {
+          "title": "UK DevOps Engineer Salary Expectations in 2026: Hiring Trends and Workforce Planning - Bristow Holland",
+          "url": "https://www.bristowholland.com/insights/industry-insights/uk-devops-engineer-salary-expectations-in-2026-hiring-trends-and-workforce-planning"
+        },
+        {
+          "title": "How to Hire DevOps Engineers in 2026 | KORE1",
+          "url": "https://www.kore1.com/hire-devops-engineers-2026-guide"
+        },
+        {
+          "title": "[February 2026] Tech Job Market Trends Monthly | Zero To Mastery",
+          "url": "https://zerotomastery.io/blog/tech-job-market-trends-monthly-february-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:56.776Z"
+    },
+    {
+      "fieldId": "platform-engineering",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Platform engineers are in high demand as companies consolidate infrastructure teams and adopt AI platforms, with 20:1 leverage ratios driving hiring.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Being a platform engineer in 2026: Career reality check",
+          "url": "https://platformengineering.org/blog/being-a-platform-engineer-in-2026"
+        },
+        {
+          "title": "Platform Engineers Evolve to AI-Platform Engineers | Zohar Einy posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/zohar-einy_ai-platform-engineer-is-the-evolution-of-activity-7401623782123024384-WZzq"
+        },
+        {
+          "title": "2026 Engineering Job Market Outlook: Growth, AI, and Emerging Roles | SSi People posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/ssipeople_engineering-job-market-in-2026-ssi-people-activity-7420170762931732482-oXp4"
+        },
+        {
+          "title": "Emerging Careers in Artificial Intelligence and Software Engineering | College of Engineering",
+          "url": "https://www.bu.edu/eng/2026/02/18/careers-in-artificial-intelligence-and-software-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:56.866Z"
+    },
+    {
+      "fieldId": "sre",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "SRE demand is at an all-time high and growing as AI workloads expand, while AI augments rather than replaces SREs by handling toil and freeing them for higher-value reliability work.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "SRE jobs & Career Growth Guide for 2026",
+          "url": "https://www.novelvista.com/blogs/devops/sre-jobs-career-guide"
+        },
+        {
+          "title": "Site Reliability Engineer Salary in 2026: $184K Median (Real Job-Posting Data)",
+          "url": "https://www.recruitingfromscratch.com/blog/site-reliability-engineer-salary-in-2026-real-data-from-1-9-million-job-postings"
+        },
+        {
+          "title": "IT Job Watch: Site reliability engineer - Spiceworks",
+          "url": "https://www.spiceworks.com/it-careers/it-job-watch-site-reliability-engineer"
+        },
+        {
+          "title": "DevOps Job Market 2026: Salaries, Skills & Hiring Trends",
+          "url": "https://hackerx.org/devops-job-market-2026-trends-and-opportunities"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:56.848Z"
+    },
+    {
+      "fieldId": "cloud-architect",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Cloud architects are in high demand with 22% projected growth, and AI is expanding their scope into AI-driven architectures rather than replacing them.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "5 In-Demand Technology Roles & Hiring Trends 2026",
+          "url": "https://www.alexandertg.com/most-in-demand-tech-jobs"
+        },
+        {
+          "title": "Top Careers in Cloud Computing for 2026",
+          "url": "https://ischool.syracuse.edu/career-in-cloud-computing"
+        },
+        {
+          "title": "The Rise of Cloud Engineering: Salary Trends to Watch in 2026 - VeriiPro Blog",
+          "url": "https://veriipro.com/blog/the-rise-of-cloud-engineering-salary"
+        },
+        {
+          "title": "The Cloud Jobs That Will Survive (and Thrive) in the AI Era If you're in IT, support, or cloud engineering right now, you've probably asked yourself: \"Am I learning the right skills to stay… | Greg Powell",
+          "url": "https://www.linkedin.com/posts/thoughtfultechy_the-cloud-jobs-that-will-survive-and-thrive-activity-7393530287827148801-SenD"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:56.772Z"
+    },
+    {
+      "fieldId": "database-engineering",
+      "demand": 0.75,
+      "trend": "stable",
+      "aiRisk": 0.25,
+      "reason": "Steady enterprise hiring for senior data platform skills; AI automates routine pipeline work but expands strategic responsibilities.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "The State of the Data Engineering Job Market in 2026",
+          "url": "https://axialsearch.com/insights/data-engineering-jobs"
+        },
+        {
+          "title": "Data Engineering Hiring Trends 2026: What to Watch Out For (For Job Seekers & Recruiters) | Data Engineering Jobs",
+          "url": "https://dataengineeringjobs.co.uk/career-advice/data-engineering-hiring-trends-2026-what-to-watch-out-for-for-job-seekers-recruiters-"
+        },
+        {
+          "title": "2026 Data Engineering Job Market Trends: SQL, Cloud, and Business Impact | Yoganand Kodali posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/yoganand-kodali_dataengineering-techjobs-cloudcomputing-activity-7427358851005452288-Ekda"
+        },
+        {
+          "title": "2026 Salary Guide: Data Engineering, Senior Engineers, and Big Data",
+          "url": "https://motionrecruitment.com/it-salary/data-engineering"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:59.142Z"
+    },
+    {
+      "fieldId": "network-engineering",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Strong demand driven by cloud migration and data center growth, with AI automating routine tasks but increasing need for engineers who bridge network, cloud, and security.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Network Engineer Career Path 2026 - KORE1",
+          "url": "https://www.kore1.com/network-engineer-career-path"
+        },
+        {
+          "title": "Download the Complete 2026 Salary Guide for Network Engineers",
+          "url": "https://motionrecruitment.com/it-salary/network-engineer"
+        },
+        {
+          "title": "Why Demand for Network Engineers in the USA Is Surging: Career Opportunities and Trends",
+          "url": "https://www.blog.nexgent.com/blog/demand-for-network-engineers-in-usa"
+        },
+        {
+          "title": "Network jobs watch: Hiring, skills and certification trends | Network World",
+          "url": "https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:59.149Z"
+    },
+    {
+      "fieldId": "appsec",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Shift-left security adoption and AI-driven code velocity create expanding attack surface, while AI tools augment rather than replace expert judgment.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Cybersecurity Career Statistics 2026: Salary & Jobs…",
+          "url": "https://rockstardeveloperuniversity.com/cybersecurity-career-statistics"
+        },
+        {
+          "title": "AI Boosts Security Engineering Efficiency | Alex Farhadi posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/alex-farhadi-40510616_the-death-of-the-ticket-how-ai-is-redefining-activity-7415148244932083712-CATq"
+        },
+        {
+          "title": "5 In-Demand Technology Roles & Hiring Trends 2026",
+          "url": "https://www.alexandertg.com/most-in-demand-tech-jobs"
+        },
+        {
+          "title": "Cybersecurity Jobs in 2026",
+          "url": "https://www.penligent.ai/hackinglabs/cybersecurity-jobs-in-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:59.080Z"
+    },
+    {
+      "fieldId": "security-analyst",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "High demand with low unemployment and 4.8M unfilled roles globally, while AI automates routine triage but increases need for human judgment on complex investigations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Cybersecurity Job Market Shifts: 5 Key Trends for 2026 | Owen Jobling posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/owenjobling_the-cybersecurity-rush-5-truths-about-the-activity-7424773132437135361-n450"
+        },
+        {
+          "title": "Cybersecurity Career Path 2026 Guide | Unihackers",
+          "url": "https://unihackers.com/blog/cybersecurity-career-path-2026"
+        },
+        {
+          "title": "Cybersecurity Job Demand in 2026: Trends, Growth, and Outlook",
+          "url": "https://destcert.com/resources/cybersecurity-job-demand"
+        },
+        {
+          "title": "2026 Technology job market: In-demand roles and hiring trends",
+          "url": "https://www.roberthalf.com/us/en/insights/research/data-reveals-which-technology-roles-are-in-highest-demand"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:59.185Z"
+    },
+    {
+      "fieldId": "pentester",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.45,
+      "reason": "Market expanding rapidly with 29% BLS growth projection, but AI automates junior tasks and standard methodology work, shifting value to senior judgment and AI direction.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Penetration Tester Career in 2026: Is AI Killing It?",
+          "url": "https://app.stationx.net/articles/penetration-tester-career"
+        },
+        {
+          "title": "How Red Teams and Pen Testers Are Remaking Themselves in an AI Era | Dice.com Career Advice",
+          "url": "https://www.dice.com/career-advice/how-red-teams-and-pen-testers-are-remaking-themselves-in-an-ai-era"
+        },
+        {
+          "title": "Cybersecurity Job Market Shifts: 5 Key Trends for 2026 | Owen Jobling posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/owenjobling_the-cybersecurity-rush-5-truths-about-the-activity-7424773132437135361-n450"
+        },
+        {
+          "title": "Will AI Replace Penetration Testers? The Data | Simbian",
+          "url": "https://simbian.ai/blog/will-ai-replace-penetration-testers"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:20:59.164Z"
+    },
+    {
+      "fieldId": "smart-contract-auditor",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Regulatory pressure and talent scarcity drive extreme demand and rising pay, while AI acts as a force multiplier rather than a replacement.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Smart Contract Auditor Jobs UK 2026: The Highest-Paid Role in Web3 | Blockchain Jobs",
+          "url": "https://blockchainjobs.uk/career-advice/smart-contract-auditor-jobs-uk-2026"
+        },
+        {
+          "title": "AI-Assisted Smart Contract Auditing: Tools, Workflows, and Limits (2026) | Smart Contract Hacking",
+          "url": "https://smartcontractshacking.com/learn/security/ai-assisted-smart-contract-auditing"
+        },
+        {
+          "title": "Smart Contract Auditor Salary Calculator 2026 - Free Tool",
+          "url": "https://smartcontractshacking.com/tools/auditor-salary-calculator"
+        },
+        {
+          "title": "Smart Contract Auditor Salary 2026 | NueCareer",
+          "url": "https://nuecareer.com/careers/smart-contract-auditor"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:02.025Z"
+    },
+    {
+      "fieldId": "smart-contract-engineer",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Smart contract roles surged 58% YoY with acute talent shortages, while AI assists but cannot replace the security-critical human judgment needed for high-value contracts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "50+ Web3 Hiring Trends 2026 (2026)",
+          "url": "https://crypto.jobs/web3-hiring-trends-2026"
+        },
+        {
+          "title": "Is Blockchain Developer Worth Learning in 2026? Salary",
+          "url": "https://www.refontelearning.com/blog/is-blockchain-developer-worth-learning"
+        },
+        {
+          "title": "Blockchain Jobs and AI in the UK (2026): Where AI and Blockchain Careers Collide | Blockchain Jobs",
+          "url": "https://blockchainjobs.uk/career-advice/blockchain-jobs-and-ai-uk-2026"
+        },
+        {
+          "title": "R28124 - Blockchain – Smart Contract Engineer – Digital As…",
+          "url": "https://www.euronext.com/en/about/careers/job-offers/r28124-france-blockchain-smart-contract-engineer-digital"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:02.007Z"
+    },
+    {
+      "fieldId": "web3-frontend",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Strong Web3 hiring growth and high salaries persist, but AI automates routine frontend and smart-contract coding tasks.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "15 Best Web3 Recruiters Leading the Talent Market in 2026",
+          "url": "https://www.alphaapexgroup.com/blog/best-web3-recruiters"
+        },
+        {
+          "title": "2026 Web3 Developer Salary: Blockchain Jobs Pay Up to $250K+ | Metana Blog",
+          "url": "https://metana.io/blog/web3-developer-salary"
+        },
+        {
+          "title": "The 2026 Guide to Finding the Best Blockchain Recruitment Agency | Axiom Recruit",
+          "url": "https://www.axiomrecruit.com/resources/industry-insights/the-2026-guide-to-finding-the-best-blockchain-recruitment-agency"
+        },
+        {
+          "title": "Building in the Open: Lessons from 6 AI Projects | Joey Irwin posted ...",
+          "url": "https://www.linkedin.com/posts/joey-irwin-703a59a2_%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9D-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%9B-activity-7423032089114996737-rln4"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:01.988Z"
+    },
+    {
+      "fieldId": "protocol-engineering",
+      "demand": 0.35,
+      "trend": "stable",
+      "aiRisk": 0.25,
+      "reason": "Niche blockchain infrastructure role with steady but limited demand; AI assists coding but cannot replace deep consensus and networking expertise.",
+      "confidence": "low",
+      "sources": [
+        {
+          "title": "Engineering Job Market Forecast 2026: Trends and Insights | SSi People (India) posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/ssipeopleindia_engineering-job-market-in-2026-ssi-people-activity-7420170804690083841-XB1G"
+        },
+        {
+          "title": "The Impact of AI on Engineering Job Roles - Ernest Gordon Recruitment",
+          "url": "https://www.ernestgordonrecruitment.com/blog/the-impact-of-ai-on-engineering-job-roles"
+        },
+        {
+          "title": "How AI Changes the Job for Senior Software Engineers · Formation Blog",
+          "url": "https://formation.dev/blog/how-ai-is-changing-job-description-for-senior-software-engineers"
+        },
+        {
+          "title": "5 In-Demand Technology Roles & Hiring Trends 2026",
+          "url": "https://www.alexandertg.com/most-in-demand-tech-jobs"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:01.964Z"
+    },
+    {
+      "fieldId": "qa-automation",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Strong demand for automation engineers as manual testing declines, with AI augmenting rather than replacing engineering-focused QA roles.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "QA Automation Engineer in 2026: Skills, Trends & Careers",
+          "url": "https://www.refontelearning.com/blog/qa-automation-engineer-in-2026-essential-trends-skills-and-career-strategies"
+        },
+        {
+          "title": "Is QA a Dying Career? What 2026 Job Market Data Actually Shows | SQAExperts",
+          "url": "https://www.sqaexperts.com/is-qa-a-dying-career-what-2026-job-market-data-actually-shows"
+        },
+        {
+          "title": "QA Automation Engineers in 2026: Why They’re So Hard to Hire",
+          "url": "https://intersog.com/blog/qa-automation-engineers-hiring-trends"
+        },
+        {
+          "title": "Test Automation Jobs Report 2026: Tools, Regions, Salaries | TestDino",
+          "url": "https://testdino.com/blog/test-automation-jobs"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:01.980Z"
+    },
+    {
+      "fieldId": "performance-engineering",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Firms prioritize efficiency and measurable impact, increasing need for deep systems optimization that AI cannot fully automate.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Engineering Job Market in 2026 | SSi People",
+          "url": "https://www.ssipeople.com/forecasts-for-the-engineering-job-market-in-2026"
+        },
+        {
+          "title": "2026 Hiring Trends: AI, Research, and Engineering Talent in Demand | Emaago posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/emaago_hiringtrends2026-careers-aijobs-activity-7402781955055955968-qNqc"
+        },
+        {
+          "title": "AI Will Reshape More Jobs Than It Replaces | BCG",
+          "url": "https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:04.407Z"
+    },
+    {
+      "fieldId": "product-management",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "PM openings are up double-digits year-over-year and AI is expanding the role's scope rather than replacing it.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Here's the latest Product Management job market report for June 2026.",
+          "url": "https://www.linkedin.com/posts/jamesgunaca_pm-job-market-report-june-2026-activity-7473751657336700928-5OiX"
+        },
+        {
+          "title": "Product Manager Jobs in the US - 2026 Guide | Placeman",
+          "url": "https://placeman.co.in/product-manager-jobs-usa"
+        },
+        {
+          "title": "Product Management Job Market Report: February 2026 Sees 12% Growth | James Gunaca posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/jamesgunaca_product-management-jobs-report-for-february-activity-7424195008620032000-O15o"
+        },
+        {
+          "title": "6 Product Management Trends in 2026: The PM Role Is Splitting",
+          "url": "https://userpilot.com/blog/product-management-trends"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:04.452Z"
+    },
+    {
+      "fieldId": "technical-pm",
+      "demand": 0.85,
+      "trend": "growing",
+      "aiRisk": 0.15,
+      "reason": "PM hiring at 3-year highs with strong specialization toward technical and AI-adjacent roles where engineering background is a key advantage.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "Product Management Job Market Report: February 2026 Sees 12% Growth | James Gunaca posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/jamesgunaca_product-management-jobs-report-for-february-activity-7424195008620032000-O15o"
+        },
+        {
+          "title": "Product Manager Jobs in the US - 2026 Guide | Placeman",
+          "url": "https://placeman.co.in/product-manager-jobs-usa"
+        },
+        {
+          "title": "State of the product job market in early 2026",
+          "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9"
+        },
+        {
+          "title": "6 Product Management Trends in 2026: The PM Role Is Splitting",
+          "url": "https://userpilot.com/blog/product-management-trends"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:04.470Z"
+    },
+    {
+      "fieldId": "product-design",
+      "demand": 0.65,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Product design demand is stable with growing need for strategic skills, while AI automates execution tasks like wireframing and asset production.",
+      "confidence": "high",
+      "sources": [
+        {
+          "title": "How AI Redefines Product Design– Insights futuremind.com",
+          "url": "https://www.futuremind.com/insights/how-ai-is-redefining-the-job-of-product-designers"
+        },
+        {
+          "title": "The UX Job Market in 2026: The Most In-Demand Skills & Roles",
+          "url": "https://www.uxdesigninstitute.com/blog/the-ux-job-market-in-2026-2"
+        },
+        {
+          "title": "Is AI Replacing Product Designers? The Fate of Design Jobs in 2026 | Gozade",
+          "url": "https://gozade.com/blog/is-ai-replacing-product-designers-the-fate-of-design-jobs-in-2026"
+        },
+        {
+          "title": "Medium",
+          "url": "https://medium.com/design-bootcamp/product-designers-are-not-being-replaced-they-are-being-sorted-6e2fb0492ed2"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:04.436Z"
+    },
+    {
+      "fieldId": "ux-research",
+      "demand": 0.65,
+      "trend": "stable",
+      "aiRisk": 0.3,
+      "reason": "Demand is steady but competitive; AI automates routine tasks while increasing need for strategic, business-focused researchers.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Surviving 2026 UX Research Job Market Shift: Adapt to Business Impact | Philip Burgess posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/philip-burgess-0a1542122_uxresearch-uxcareers-designleadership-activity-7412175728575737856-aCU_"
+        },
+        {
+          "title": "The UX Job Market in 2026: The Most In-Demand Skills & Roles",
+          "url": "https://www.uxdesigninstitute.com/blog/the-ux-job-market-in-2026-2"
+        },
+        {
+          "title": "What Does A UX Researcher Do? (2026 Role, Salaries, Skills & AI Impact)",
+          "url": "https://uxarmy.com/blog/ux-researcher-role-ai"
+        },
+        {
+          "title": "State of UX in 2026 - NN/G",
+          "url": "https://www.nngroup.com/articles/state-of-ux-2026"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:04.455Z"
+    },
+    {
+      "fieldId": "product-analytics",
+      "demand": 0.35,
+      "trend": "growing",
+      "aiRisk": 0.25,
+      "reason": "Product Analyst is a small but growing niche as AI products need new measurement approaches and analysts use AI to automate routine work.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "The Rise of the AI Product Analyst - by Olga Berezovsky",
+          "url": "https://dataanalysis.substack.com/p/the-rise-of-the-ai-product-analyst"
+        },
+        {
+          "title": "Analyst Job Market 2026: Global Business & Data Analyst Hiring Trends | RealAnalystJobs",
+          "url": "https://realanalystjobs.com/analyst-job-market"
+        },
+        {
+          "title": "State of the product job market in early 2026",
+          "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9"
+        },
+        {
+          "title": "The Future of Data Analytics: Why AI is rewriting the Analyst’s Job Description | Databricks Blog",
+          "url": "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:06.492Z"
+    },
+    {
+      "fieldId": "growth-engineering",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Growth engineering blends product and data skills that companies prioritize for efficient scaling, while AI automates routine analysis but increases need for experiment design.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        },
+        {
+          "title": "Tech Job Market 2026: Layoffs, AI Salaries, and Hiring Data - Pin",
+          "url": "https://www.pin.com/blog/tech-job-market-report"
+        },
+        {
+          "title": "AI Jobs Barometer | PwC",
+          "url": "https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html"
+        },
+        {
+          "title": "Why AI Is A Massive Job-Creation Technology, Despite What You Think – JOSH BERSIN",
+          "url": "https://joshbersin.com/2026/03/why-ai-is-a-massive-job-creation-technology-despite-what-you-think"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:06.520Z"
+    },
+    {
+      "fieldId": "devrel",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "Demand holds for advocates who build trust and community, while pure content creation faces AI automation.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "What is a developer advocate? The role, the work, and how to get in",
+          "url": "https://hackmamba.io/developer-community/what-is-a-developer-advocate"
+        },
+        {
+          "title": "AddyOsmani.com - The Next Two Years of Software Engineering",
+          "url": "https://addyosmani.com/blog/next-two-years"
+        },
+        {
+          "title": "Is Software Engineering Cooked? Not Yet. But Maybe. - DEV Community",
+          "url": "https://dev.to/aws/is-software-engineering-cooked-not-yet-but-maybe-5e0j"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:06.449Z"
+    },
+    {
+      "fieldId": "technical-writing",
+      "demand": 0.6,
+      "trend": "stable",
+      "aiRisk": 0.45,
+      "reason": "AI automates drafting but expands documentation needs; demand holds steady for writers who architect content systems and validate accuracy.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "What I Learned From 14 Technical Writers on the Future of AI",
+          "url": "https://technicalwriterhq.com/interview/ai-technical-writing"
+        },
+        {
+          "title": "The Emerging Picture of a Changed Profession: Cyborg Technical Writers — Augmented, Not Replaced, by AI | I'd Rather Be Writing Blog and API doc course",
+          "url": "https://idratherbewriting.com/blog/cyborg-model-emerging-talk"
+        },
+        {
+          "title": "Will AI replace AI technical writers? - CareerExplorer",
+          "url": "https://www.careerexplorer.com/careers/ai-technical-writer/ai-impact"
+        },
+        {
+          "title": "What the AI Impact on Technical Writing Really Looks Like",
+          "url": "https://www.guiseppegetto.com/2026/02/18/bls-projects-just-1-growth-what-the-ai-impact-on-technical-writing-really-looks-like"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:06.515Z"
+    },
+    {
+      "fieldId": "solutions-engineering",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.55,
+      "reason": "Enterprise sales growth drives steady demand, but AI automates prep, demos, and research tasks, reshaping the role toward higher-value advisory work.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "How AI is changing the role of Sales Engineers | John Care posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/johncare_aiandpresales-trustedadvisor-valuecocreation-activity-7391138305536548865-ua-2"
+        },
+        {
+          "title": "What Does a Sales Engineer Do? Role, Skills, Salary (2026) | Apollo",
+          "url": "https://www.apollo.io/insights/what-does-a-sales-engineer-do"
+        },
+        {
+          "title": "What is a VP of Sales Engineering? - Betts Recruiting",
+          "url": "https://bettsrecruiting.com/blog/what-is-a-vp-of-sales-engineering"
+        },
+        {
+          "title": "State of the software engineering job market in 2026, part 2",
+          "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:06.472Z"
+    },
+    {
+      "fieldId": "devex",
+      "demand": 0.65,
+      "trend": "growing",
+      "aiRisk": 0.3,
+      "reason": "Platform engineering demand rises with cloud complexity and AI integration, but AI automates routine SDK and docs tasks.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "[January 2026] Tech Job Market Trends Monthly | Zero To Mastery",
+          "url": "https://zerotomastery.io/blog/tech-job-market-trends-monthly-january-2026"
+        },
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        },
+        {
+          "title": "How AI Changes the Job for Senior Software Engineers · Formation Blog",
+          "url": "https://formation.dev/blog/how-ai-is-changing-job-description-for-senior-software-engineers"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:08.855Z"
+    },
+    {
+      "fieldId": "customer-success-engineering",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.35,
+      "reason": "SaaS retention drives steady hiring, but AI automates routine tasks shifting focus to strategic, high-value work.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "The Customer Success Job Market in 2026: Trends, Salaries & What's Hiring | TopCSJobs",
+          "url": "https://topcsjobs.com/customer-success-job-market-trends"
+        },
+        {
+          "title": "Will AI replace your Customer Success role? The answer depends on your strategy. | John Cissel posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/johncissel_ai-cs-csm-activity-7394443461401186306-0fel"
+        },
+        {
+          "title": "10 AI Agents for Customer Success Teams | MindStudio",
+          "url": "https://www.mindstudio.ai/blog/ai-agents-for-customer-success"
+        },
+        {
+          "title": "The essential customer success trends of 2026... predicted by the experts - ChurnZero",
+          "url": "https://churnzero.com/blog/2026-customer-success-trends-experts"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:08.843Z"
+    },
+    {
+      "fieldId": "engineering-management",
+      "demand": 0.7,
+      "trend": "growing",
+      "aiRisk": 0.4,
+      "reason": "Engineering management demand grows with 67k+ open roles and 78% of leaders expanding headcount, but AI flattens orgs and splits the role into tech-lead and people-lead tracks.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "AI Is Forking the Engineering Manager Role Into Two Jobs",
+          "url": "https://www.dainemawer.com/ai-forking-engineering-manager-role"
+        },
+        {
+          "title": "State of the product job market in early 2026",
+          "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9"
+        },
+        {
+          "title": "Developer Hiring Trends in 2026: The Five Forces Reshaping How You Build a Team - Full Scale",
+          "url": "https://fullscale.io/blog/developer-hiring-trends"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:08.874Z"
+    },
+    {
+      "fieldId": "staff-engineer",
+      "demand": 0.75,
+      "trend": "stable",
+      "aiRisk": 0.15,
+      "reason": "High compensation and hiring difficulty show strong demand, while AI amplifies architectural judgment rather than replacing it.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "2026 FDE Hiring Trends: What 1,000 Job Posts Reveal | Blog | Perspective AI",
+          "url": "https://getperspective.ai/blog/2026-fde-hiring-trends-what-1000-job-posts-reveal"
+        },
+        {
+          "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+          "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring"
+        },
+        {
+          "title": "How AI Changes the Job for Senior Software Engineers · Formation Blog",
+          "url": "https://formation.dev/blog/how-ai-is-changing-job-description-for-senior-software-engineers"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:08.848Z"
+    },
+    {
+      "fieldId": "solutions-architect",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "Strong demand from digital transformation and AI adoption; AI augments rather than replaces architectural judgment.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "UK Solution Architect Salary Expectations in 2026: Hiring Trends and Workforce Planning - Bristow Holland",
+          "url": "https://www.bristowholland.com/insights/industry-insights/uk-solution-architect-salary"
+        },
+        {
+          "title": "Will AI Replace AI Solutions Architect Jobs? | JobZone Risk",
+          "url": "https://jobzonerisk.com/roles/ai-solutions-architect"
+        },
+        {
+          "title": "Solutions Architect Salary: Your 2026 Guide | Coursera",
+          "url": "https://www.coursera.org/articles/solutions-architect-salary"
+        },
+        {
+          "title": "Can the Solution Architect Role Be Replaced by AI? | Microsoft Community Hub",
+          "url": "https://techcommunity.microsoft.com/discussions/dataarchitecture/can-the-solution-architect-role-be-replaced-by-ai/4495853"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:08.850Z"
+    },
+    {
+      "fieldId": "cto-cofounder",
+      "demand": 0.75,
+      "trend": "growing",
+      "aiRisk": 0.2,
+      "reason": "AI tools empower technical founders to build more, while startups urgently need leaders who can integrate AI into product and business strategy.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Why AI Is Redefining the CTO Role in Technology Services - Egon Zehnder",
+          "url": "https://www.egonzehnder.com/functions/technology-officers/chief-technology-officers/insight/the-cto-s-new-mandate-in-technology-services-from-running-tech-to-transforming-the-business"
+        },
+        {
+          "title": "CEO's shift to AI-enabled coding boosts company growth | Bill Bither posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/billbither_one-of-the-most-unexpected-shifts-in-my-role-activity-7411777414235807744-Lu3h"
+        },
+        {
+          "title": "[Hiring] Technical Co-founder (CTO) - AI Collections Agent @FutureSight",
+          "url": "https://remotive.com/remote/jobs/software-development/technical-co-founder-cto-ai-collections-agent-5429684"
+        },
+        {
+          "title": "[Hiring] Entrepreneur in Residence - Technical Co-founder (CTO) @FutureSight",
+          "url": "https://remotive.com/remote/jobs/artificial-intelligence/entrepreneur-in-residence-technical-co-founder-cto-4587031"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:10.827Z"
+    },
+    {
+      "fieldId": "freelance-agency",
+      "demand": 0.55,
+      "trend": "stable",
+      "aiRisk": 0.55,
+      "reason": "Freelance market growing overall but AI automates commodity tasks, shifting demand to specialized strategic work.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "Upwork Market Report 2026: Agency Trends, Rates, Free Data",
+          "url": "https://gigradar.io/blog/upwork-market-report-2026"
+        },
+        {
+          "title": "Freelancing with AI in 2026: Tools, Skills & Strategies",
+          "url": "https://useme.com/en/blog/freelancing-with-ai-in-2026"
+        },
+        {
+          "title": "Gig Economy Jobs: 25+ Best Opportunities Hiring Right Now in 2026",
+          "url": "https://golance.com/blogs/gig-economy-jobs-2026"
+        },
+        {
+          "title": "Gig Economy Statistics 2026: Freelance and AI Data",
+          "url": "https://www.digitalapplied.com/blog/gig-economy-freelance-statistics-2026-data-points"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:10.797Z"
+    },
+    {
+      "fieldId": "indie-hacker",
+      "demand": 0.35,
+      "trend": "shrinking",
+      "aiRisk": 0.75,
+      "reason": "AI lowers barriers to entry, flooding the market with similar products while customers build their own tools, shrinking paid opportunities for indie hackers.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "As an Independent Developer, My Thoughts and Growth Empowered by AI - Indie Hackers",
+          "url": "https://www.indiehackers.com/post/as-an-independent-developer-my-thoughts-and-growth-empowered-by-ai-b5cde9072b"
+        },
+        {
+          "title": "The Indie Hacker Economy is a Pyramid Scheme",
+          "url": "https://medium.com/westenberg/the-indie-hacker-economy-is-a-pyramid-scheme-d06cb5789648"
+        },
+        {
+          "title": "Indie hackers build fancy AI factories but have no money or traffic — @levelsio (Pieter Levels)",
+          "url": "https://levels.io/indie-hackers-ai-factories-no-money-traffic"
+        },
+        {
+          "title": "Medium",
+          "url": "https://levelup.gitconnected.com/one-of-the-most-successful-indie-hackers-says-ai-killed-the-playbook-716f27f995ec"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:10.827Z"
+    },
+    {
+      "fieldId": "content-creator",
+      "demand": 0.55,
+      "trend": "growing",
+      "aiRisk": 0.35,
+      "reason": "Creator economy expands but AI tools automate routine production tasks, shifting value to strategy and community.",
+      "confidence": "low",
+      "sources": [
+        {
+          "title": "Tech Job Market Trends 2026: Hiring, Pay, and What Comes Next - Second Talent",
+          "url": "https://www.secondtalent.com/resources/tech-job-market-trends"
+        },
+        {
+          "title": "AI Will Reshape More Jobs Than It Replaces | BCG",
+          "url": "https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces"
+        },
+        {
+          "title": "Enhance or Eliminate? How AI Will Likely Change These Jobs | Working Knowledge",
+          "url": "https://www.library.hbs.edu/working-knowledge/enhance-or-eliminate-how-ai-will-likely-change-these-jobs"
+        },
+        {
+          "title": "AI Jobs Barometer | PwC",
+          "url": "https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:10.793Z"
+    },
+    {
+      "fieldId": "tech-consulting",
+      "demand": 0.7,
+      "trend": "stable",
+      "aiRisk": 0.4,
+      "reason": "Consulting demand is steady but selective, with growth in specialized AI and cybersecurity skills while junior tasks face automation.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "title": "IT Job Market 2026 Guide for Consultants | Artech",
+          "url": "https://www.artech.com/blog/it-job-market-2026-consultants-contractors"
+        },
+        {
+          "title": "Tech Hiring Is Getting More Specialized: What the 2026 Tech Job Market Wants | Revelio Labs",
+          "url": "https://www.reveliolabs.com/news/tech/tech-hiring-specialized-job-market-2026"
+        },
+        {
+          "title": "2026 Technology job market: In-demand roles and hiring trends",
+          "url": "https://www.roberthalf.com/us/en/insights/research/data-reveals-which-technology-roles-are-in-highest-demand"
+        },
+        {
+          "title": "AI Consultant Jobs in 2026: Roles, Skills, Salaries & Hiring Trends",
+          "url": "https://www.tredence.com/blog/ai-consultant-jobs"
+        }
+      ],
+      "fetchedAt": "2026-10-18T11:21:10.848Z"
+    }
+  ],
+  "liveIds": [],
+  "failed": []
+}

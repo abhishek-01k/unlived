@@ -1,0 +1,2786 @@
+{
+  "matches": [
+    {
+      "fieldId": "frontend",
+      "fit": 0.703,
+      "interested": true,
+      "matchedSkills": [
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "TypeScript",
+          "via": "TypeScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        },
+        {
+          "skill": "CSS",
+          "via": "CSS",
+          "closeness": "exact",
+          "strength": 0.7
+        },
+        {
+          "skill": "Web Performance",
+          "via": "Web Performance",
+          "closeness": "exact",
+          "strength": 0.8
+        },
+        {
+          "skill": "Frontend Architecture",
+          "via": "Frontend Architecture",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Accessibility",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "design-engineer",
+      "fit": 0.472,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        },
+        {
+          "skill": "CSS",
+          "via": "CSS",
+          "closeness": "exact",
+          "strength": 0.7
+        },
+        {
+          "skill": "Design Systems",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Animation & Motion",
+          "via": "CSS",
+          "closeness": "partial",
+          "strength": 0.28
+        },
+        {
+          "skill": "UI Design",
+          "via": "Figma",
+          "closeness": "partial",
+          "strength": 0.1
+        },
+        {
+          "skill": "Figma",
+          "via": "Figma",
+          "closeness": "exact",
+          "strength": 0.25
+        },
+        {
+          "skill": "Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "related",
+          "strength": 0.6
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Design Systems",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Animation & Motion",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "UI Design",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Figma",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Accessibility",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "backend",
+      "fit": 0.234,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "Databases",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        },
+        {
+          "skill": "Node.js",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Databases",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Node.js",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Go",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Java",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "fullstack",
+      "fit": 0.526,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "TypeScript",
+          "via": "TypeScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        },
+        {
+          "skill": "Node.js",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Node.js",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "mobile",
+      "fit": 0.322,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "React Native",
+          "via": "React",
+          "closeness": "partial",
+          "strength": 0.36
+        },
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "React Native",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Swift / Kotlin",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Mobile UI Patterns",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "App Store Release",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "game-dev",
+      "fit": 0.086,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Performance Profiling",
+          "via": "Web Performance",
+          "closeness": "related",
+          "strength": 0.56
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Game Engines",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "C++",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "C#",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "3D Graphics",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "ML Math",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "embedded-iot",
+      "fit": 0.025,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Embedded Systems",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "C++",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Electronics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "founding-engineer",
+      "fit": 0.585,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        },
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Product Strategy",
+          "via": "Product Monetization",
+          "closeness": "related",
+          "strength": 0.28
+        },
+        {
+          "skill": "Technical Leadership",
+          "via": "Technical Leadership",
+          "closeness": "exact",
+          "strength": 0.6
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Self-management",
+          "via": "Rapid Prototyping",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Product Strategy",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Self-management",
+          "status": "partial",
+          "weeksToLearn": 5
+        }
+      ]
+    },
+    {
+      "fieldId": "ai-engineering",
+      "fit": 0.365,
+      "interested": true,
+      "matchedSkills": [
+        {
+          "skill": "LLM APIs",
+          "via": "LLM APIs",
+          "closeness": "exact",
+          "strength": 0.55
+        },
+        {
+          "skill": "Prompt Engineering",
+          "via": "LLM APIs",
+          "closeness": "related",
+          "strength": 0.39
+        },
+        {
+          "skill": "Retrieval / RAG",
+          "via": "Retrieval / RAG",
+          "closeness": "exact",
+          "strength": 0.4
+        },
+        {
+          "skill": "AI Agents",
+          "via": "LLM APIs",
+          "closeness": "partial",
+          "strength": 0.22
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "TypeScript",
+          "via": "TypeScript",
+          "closeness": "exact",
+          "strength": 0.85
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Prompt Engineering",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Retrieval / RAG",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Evals",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "AI Agents",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "ml-engineering",
+      "fit": 0.096,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "Data Pipelines",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Machine Learning",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Deep Learning",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "ML Math",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Model Deployment",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Data Pipelines",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "mlops",
+      "fit": 0.116,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Docker / Kubernetes",
+          "via": "Docker",
+          "closeness": "related",
+          "strength": 0.18
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Model Deployment",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Docker / Kubernetes",
+          "status": "partial",
+          "weeksToLearn": 10
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "CI/CD",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Monitoring & Observability",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Machine Learning",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "data-science",
+      "fit": 0.064,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Statistics",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Machine Learning",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Experimentation",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Data Visualization",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "ML Math",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "data-engineering",
+      "fit": 0.161,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Data Pipelines",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Databases",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Data Pipelines",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Data Modeling",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Big Data Tools",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Databases",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "data-analytics",
+      "fit": 0.045,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Data Visualization",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Statistics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Product Analytics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "analytics-engineering",
+      "fit": 0.091,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Data Pipelines",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Data Modeling",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Data Pipelines",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Data Visualization",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "ai-research",
+      "fit": 0.043,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Deep Learning",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "ML Math",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Research Methods",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Machine Learning",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Evals",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "devops",
+      "fit": 0.088,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Docker / Kubernetes",
+          "via": "Docker",
+          "closeness": "related",
+          "strength": 0.18
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "CI/CD",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Docker / Kubernetes",
+          "status": "partial",
+          "weeksToLearn": 10
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Infrastructure as Code",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Monitoring & Observability",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "platform-engineering",
+      "fit": 0.167,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Docker / Kubernetes",
+          "via": "Docker",
+          "closeness": "related",
+          "strength": 0.18
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Docker / Kubernetes",
+          "status": "partial",
+          "weeksToLearn": 10
+        },
+        {
+          "skill": "Infrastructure as Code",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Go",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "CI/CD",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "sre",
+      "fit": 0.084,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        },
+        {
+          "skill": "Docker / Kubernetes",
+          "via": "Docker",
+          "closeness": "related",
+          "strength": 0.18
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Monitoring & Observability",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Incident Response",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Docker / Kubernetes",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Go",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "cloud-architect",
+      "fit": 0.185,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Infrastructure as Code",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 6
+        }
+      ]
+    },
+    {
+      "fieldId": "database-engineering",
+      "fit": 0.19,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Databases",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "Performance Profiling",
+          "via": "Web Performance",
+          "closeness": "related",
+          "strength": 0.56
+        },
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Databases",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Data Modeling",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "network-engineering",
+      "fit": 0.03,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Monitoring & Observability",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Incident Response",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "appsec",
+      "fit": 0.125,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Secure Code Review",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Threat Modeling",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "security-analyst",
+      "fit": 0,
+      "interested": false,
+      "matchedSkills": [],
+      "gaps": [
+        {
+          "skill": "Log Analysis",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Incident Response",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "pentester",
+      "fit": 0.025,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Penetration Testing",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Linux",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "smart-contract-auditor",
+      "fit": 0.27,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Smart Contract Security",
+          "via": "Web3 Development",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Solidity",
+          "via": "Web3 Development",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Blockchain Fundamentals",
+          "via": "Web3 Development",
+          "closeness": "related",
+          "strength": 0.6
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Smart Contract Security",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Solidity",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Secure Code Review",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cryptography",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "smart-contract-engineer",
+      "fit": 0.426,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Solidity",
+          "via": "Web3 Development",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Smart Contract Security",
+          "via": "Web3 Development",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Blockchain Fundamentals",
+          "via": "Web3 Development",
+          "closeness": "related",
+          "strength": 0.6
+        },
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "Web3 Libraries",
+          "via": "Web3 Development",
+          "closeness": "exact",
+          "strength": 0.85
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Solidity",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Smart Contract Security",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 6
+        }
+      ]
+    },
+    {
+      "fieldId": "web3-frontend",
+      "fit": 0.804,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        },
+        {
+          "skill": "TypeScript",
+          "via": "TypeScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Web3 Libraries",
+          "via": "Web3 Development",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Blockchain Fundamentals",
+          "via": "Web3 Development",
+          "closeness": "related",
+          "strength": 0.6
+        },
+        {
+          "skill": "Real-time Systems",
+          "via": "Real-time Systems",
+          "closeness": "exact",
+          "strength": 0.65
+        },
+        {
+          "skill": "Frontend Architecture",
+          "via": "Frontend Architecture",
+          "closeness": "exact",
+          "strength": 0.85
+        }
+      ],
+      "gaps": []
+    },
+    {
+      "fieldId": "protocol-engineering",
+      "fit": 0.165,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        },
+        {
+          "skill": "Blockchain Fundamentals",
+          "via": "Web3 Development",
+          "closeness": "related",
+          "strength": 0.6
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "Rust",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Go",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cryptography",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Networking",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "qa-automation",
+      "fit": 0.307,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Test Automation",
+          "via": "Testing",
+          "closeness": "related",
+          "strength": 0.21
+        },
+        {
+          "skill": "Testing",
+          "via": "Testing",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Python",
+          "via": "Python",
+          "closeness": "exact",
+          "strength": 0.3
+        },
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Test Automation",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "Testing",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Python",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "CI/CD",
+          "status": "missing",
+          "weeksToLearn": 8
+        }
+      ]
+    },
+    {
+      "fieldId": "performance-engineering",
+      "fit": 0.365,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Performance Profiling",
+          "via": "Web Performance",
+          "closeness": "related",
+          "strength": 0.56
+        },
+        {
+          "skill": "Web Performance",
+          "via": "Web Performance",
+          "closeness": "exact",
+          "strength": 0.8
+        },
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        },
+        {
+          "skill": "Test Automation",
+          "via": "Testing",
+          "closeness": "related",
+          "strength": 0.21
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Monitoring & Observability",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Test Automation",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "C++",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "product-management",
+      "fit": 0.12,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Product Strategy",
+          "via": "Product Monetization",
+          "closeness": "related",
+          "strength": 0.28
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Product Strategy",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Product Analytics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "Spec Writing",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Project Management",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "technical-pm",
+      "fit": 0.214,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Product Strategy",
+          "via": "Product Monetization",
+          "closeness": "related",
+          "strength": 0.28
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Product Strategy",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Spec Writing",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "product-design",
+      "fit": 0.216,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "UI Design",
+          "via": "Figma",
+          "closeness": "partial",
+          "strength": 0.1
+        },
+        {
+          "skill": "Figma",
+          "via": "Figma",
+          "closeness": "exact",
+          "strength": 0.25
+        },
+        {
+          "skill": "Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "related",
+          "strength": 0.6
+        },
+        {
+          "skill": "Design Systems",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "UI Design",
+          "status": "partial",
+          "weeksToLearn": 11
+        },
+        {
+          "skill": "Figma",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Design Systems",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Usability Testing",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "ux-research",
+      "fit": 0.044,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Usability Testing",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Research Methods",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Statistics",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 6
+        }
+      ]
+    },
+    {
+      "fieldId": "product-analytics",
+      "fit": 0,
+      "interested": false,
+      "matchedSkills": [],
+      "gaps": [
+        {
+          "skill": "Product Analytics",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Experimentation",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Statistics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Data Visualization",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "growth-engineering",
+      "fit": 0.428,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        },
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        },
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Marketing",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Product Monetization",
+          "via": "Product Monetization",
+          "closeness": "exact",
+          "strength": 0.4
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Experimentation",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Product Analytics",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Marketing",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Product Monetization",
+          "status": "partial",
+          "weeksToLearn": 2
+        }
+      ]
+    },
+    {
+      "fieldId": "devrel",
+      "fit": 0.182,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "JavaScript",
+          "via": "JavaScript",
+          "closeness": "exact",
+          "strength": 0.85
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Public Speaking",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Community Building",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Content Creation",
+          "status": "missing",
+          "weeksToLearn": 8
+        }
+      ]
+    },
+    {
+      "fieldId": "technical-writing",
+      "fit": 0.118,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Content Creation",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "solutions-engineering",
+      "fit": 0.372,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        },
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Sales",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Client Communication",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Sales",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Public Speaking",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "devex",
+      "fit": 0.355,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Design",
+          "via": "Backend Services",
+          "closeness": "related",
+          "strength": 0.35
+        },
+        {
+          "skill": "TypeScript",
+          "via": "TypeScript",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Frontend Architecture",
+          "via": "Frontend Architecture",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Node.js",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "API Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "CI/CD",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "User Research",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Node.js",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "customer-success-engineering",
+      "fit": 0.14,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Customer Support",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Client Communication",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "SQL",
+          "status": "missing",
+          "weeksToLearn": 4
+        }
+      ]
+    },
+    {
+      "fieldId": "engineering-management",
+      "fit": 0.286,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "People Management",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "Hiring",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "Technical Leadership",
+          "via": "Technical Leadership",
+          "closeness": "exact",
+          "strength": 0.6
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "Mentoring",
+          "via": "Technical Leadership",
+          "closeness": "related",
+          "strength": 0.42
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "People Management",
+          "status": "partial",
+          "weeksToLearn": 9
+        },
+        {
+          "skill": "Hiring",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Project Management",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Mentoring",
+          "status": "partial",
+          "weeksToLearn": 5
+        }
+      ]
+    },
+    {
+      "fieldId": "staff-engineer",
+      "fit": 0.368,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Technical Leadership",
+          "via": "Technical Leadership",
+          "closeness": "exact",
+          "strength": 0.6
+        },
+        {
+          "skill": "Distributed Systems",
+          "via": "Real-time Systems",
+          "closeness": "partial",
+          "strength": 0.26
+        },
+        {
+          "skill": "Mentoring",
+          "via": "Technical Leadership",
+          "closeness": "related",
+          "strength": 0.42
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Distributed Systems",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Mentoring",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "solutions-architect",
+      "fit": 0.26,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Cloud Platforms",
+          "via": "Full-stack Shipping",
+          "closeness": "partial",
+          "strength": 0.3
+        },
+        {
+          "skill": "API Integration",
+          "via": "API Integration",
+          "closeness": "exact",
+          "strength": 0.7
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Cloud Platforms",
+          "status": "partial",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Client Communication",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Security Fundamentals",
+          "status": "missing",
+          "weeksToLearn": 4
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "cto-cofounder",
+      "fit": 0.471,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        },
+        {
+          "skill": "Technical Leadership",
+          "via": "Technical Leadership",
+          "closeness": "exact",
+          "strength": 0.6
+        },
+        {
+          "skill": "Business Strategy",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Hiring",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "Product Strategy",
+          "via": "Product Monetization",
+          "closeness": "related",
+          "strength": 0.28
+        },
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Self-management",
+          "via": "Rapid Prototyping",
+          "closeness": "partial",
+          "strength": 0.34
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Business Strategy",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Hiring",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Product Strategy",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Self-management",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "freelance-agency",
+      "fit": 0.319,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        },
+        {
+          "skill": "Sales",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Self-management",
+          "via": "Rapid Prototyping",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "React",
+          "via": "React",
+          "closeness": "exact",
+          "strength": 0.9
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Client Communication",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Sales",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Project Management",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Self-management",
+          "status": "partial",
+          "weeksToLearn": 5
+        }
+      ]
+    },
+    {
+      "fieldId": "indie-hacker",
+      "fit": 0.511,
+      "interested": true,
+      "matchedSkills": [
+        {
+          "skill": "Rapid Prototyping",
+          "via": "Rapid Prototyping",
+          "closeness": "exact",
+          "strength": 0.85
+        },
+        {
+          "skill": "Full-stack Shipping",
+          "via": "Full-stack Shipping",
+          "closeness": "exact",
+          "strength": 0.75
+        },
+        {
+          "skill": "Marketing",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Product Monetization",
+          "via": "Product Monetization",
+          "closeness": "exact",
+          "strength": 0.4
+        },
+        {
+          "skill": "Product Strategy",
+          "via": "Product Monetization",
+          "closeness": "related",
+          "strength": 0.28
+        },
+        {
+          "skill": "Self-management",
+          "via": "Rapid Prototyping",
+          "closeness": "partial",
+          "strength": 0.34
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Marketing",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Product Monetization",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Product Strategy",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Self-management",
+          "status": "partial",
+          "weeksToLearn": 5
+        }
+      ]
+    },
+    {
+      "fieldId": "content-creator",
+      "fit": 0.055,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "Marketing",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Self-management",
+          "via": "Rapid Prototyping",
+          "closeness": "partial",
+          "strength": 0.34
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "Content Creation",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Public Speaking",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Marketing",
+          "status": "partial",
+          "weeksToLearn": 7
+        },
+        {
+          "skill": "Technical Writing",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Community Building",
+          "status": "missing",
+          "weeksToLearn": 8
+        },
+        {
+          "skill": "Self-management",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    },
+    {
+      "fieldId": "tech-consulting",
+      "fit": 0.244,
+      "interested": false,
+      "matchedSkills": [
+        {
+          "skill": "System Design",
+          "via": "Frontend Architecture",
+          "closeness": "partial",
+          "strength": 0.34
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "via": "Technical Leadership",
+          "closeness": "partial",
+          "strength": 0.24
+        },
+        {
+          "skill": "Technical Leadership",
+          "via": "Technical Leadership",
+          "closeness": "exact",
+          "strength": 0.6
+        },
+        {
+          "skill": "Sales",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        },
+        {
+          "skill": "Business Strategy",
+          "via": "Product Monetization",
+          "closeness": "partial",
+          "strength": 0.16
+        }
+      ],
+      "gaps": [
+        {
+          "skill": "System Design",
+          "status": "partial",
+          "weeksToLearn": 5
+        },
+        {
+          "skill": "Client Communication",
+          "status": "missing",
+          "weeksToLearn": 12
+        },
+        {
+          "skill": "Stakeholder Communication",
+          "status": "partial",
+          "weeksToLearn": 6
+        },
+        {
+          "skill": "Sales",
+          "status": "partial",
+          "weeksToLearn": 3
+        },
+        {
+          "skill": "Business Strategy",
+          "status": "partial",
+          "weeksToLearn": 3
+        }
+      ]
+    }
+  ],
+  "hidden": [
+    {
+      "fieldId": "founding-engineer",
+      "headline": "You already work like a founding engineer",
+      "reason": "You ship whole products alone and fast: Omnitutor reached 2,500 users in 48 hours, Farfield made revenue in 10 days, and you have won 10+ hackathons. Early startups hire exactly this, and it ranks #3 of 50 for you, ahead of every field you picked except Frontend.",
+      "evidence": [
+        "Onboarded 2,500+ users within 48 hours of launch.",
+        "Generated $1,000 in product revenue within 10 days of launching Farfield on Farcaster.",
+        "10+ time global hackathon winner across ETHGlobal Prague, Encode Bitcoin Hackathon (3 prizes), BNB Bangkok"
+      ]
+    },
+    {
+      "fieldId": "fullstack",
+      "headline": "You are closer to full-stack than you think",
+      "reason": "You built a backend indexing service and shipped a product on Supabase and Vercel. Full-stack ranks above AI Engineering for you, and the gap is mostly Node.js, SQL and API design.",
+      "evidence": [
+        "Built a custom indexing service that pre-aggregates liquidity, pricing and user-activity data into a queryable store",
+        "AI-native EdTech platform built end-to-end in Next.js 14, Supabase, Tailwind and Vercel"
+      ]
+    }
+  ]
+}

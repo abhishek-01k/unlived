@@ -1,0 +1,147 @@
+{
+  "summary": "Senior frontend developer with 4+ years shipping production web3 and AI products, from real-time trading dashboards to identity systems, who also builds and launches products independently and wins hackathons regularly.",
+  "seniority": "senior",
+  "yearsExperience": 4,
+  "skills": [
+    {
+      "name": "React",
+      "category": "technical",
+      "strength": 0.9,
+      "years": 4,
+      "evidence": [
+        "Frontend: React, Next.js, Tailwind CSS, Zustand, Redux, React Query, tRPC, Framer Motion",
+        "Delivered 10+ client-facing production websites end-to-end in Next.js, TypeScript and Tailwind CSS"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "category": "technical",
+      "strength": 0.85,
+      "years": 4,
+      "evidence": ["Languages: TypeScript, JavaScript, Python, C++"]
+    },
+    {
+      "name": "JavaScript",
+      "category": "technical",
+      "strength": 0.85,
+      "years": 4,
+      "evidence": ["Languages: TypeScript, JavaScript, Python, C++"]
+    },
+    {
+      "name": "Frontend Architecture",
+      "category": "technical",
+      "strength": 0.85,
+      "evidence": [
+        "Owns frontend architecture end-to-end, from state design through performance.",
+        "Owned the frontend end-to-end: live pricing, multi-step transaction state machines and failure recovery."
+      ]
+    },
+    {
+      "name": "Web Performance",
+      "category": "technical",
+      "strength": 0.8,
+      "evidence": ["Cut median load time for pool and activity views from 2.4s to under 300ms and reduced upstream API calls by 70%."]
+    },
+    {
+      "name": "Web3 Development",
+      "category": "domain",
+      "strength": 0.85,
+      "years": 4,
+      "evidence": [
+        "Architected and shipped the first exchange application on Push Chain",
+        "Led development of a universal account-abstraction layer",
+        "Engineered a staking system managing $16M+ TVL with a sustained 15% APY."
+      ]
+    },
+    {
+      "name": "Rapid Prototyping",
+      "category": "technical",
+      "strength": 0.85,
+      "evidence": ["10+ time global hackathon winner across ETHGlobal Prague, Encode Bitcoin Hackathon (3 prizes), BNB Bangkok"]
+    },
+    {
+      "name": "Full-stack Shipping",
+      "category": "technical",
+      "strength": 0.75,
+      "evidence": [
+        "AI-native EdTech platform built end-to-end in Next.js 14, Supabase, Tailwind and Vercel",
+        "Onboarded 2,500+ users within 48 hours of launch."
+      ]
+    },
+    {
+      "name": "CSS",
+      "category": "technical",
+      "strength": 0.7,
+      "evidence": ["Frontend: React, Next.js, Tailwind CSS, Zustand, Redux, React Query, tRPC, Framer Motion"]
+    },
+    {
+      "name": "API Integration",
+      "category": "technical",
+      "strength": 0.7,
+      "evidence": ["Owned frontend architecture and integrated 10+ third-party APIs across client projects."]
+    },
+    {
+      "name": "Real-time Systems",
+      "category": "technical",
+      "strength": 0.65,
+      "evidence": ["Shipped wallet-to-wallet messaging in the Push dApp, designing the client-side state layer for real-time conversation threads and delivery status."]
+    },
+    {
+      "name": "Technical Leadership",
+      "category": "other",
+      "strength": 0.6,
+      "evidence": ["Led development of a universal account-abstraction layer", "Drove 10,000+ sign-ups."]
+    },
+    {
+      "name": "LLM APIs",
+      "category": "technical",
+      "strength": 0.55,
+      "evidence": [
+        "Hosted AI product-building platform on the OpenCode engine that turns prompts into live applications",
+        "AI: LangChain, LangGraph, RAG, Ollama, Langfuse"
+      ]
+    },
+    {
+      "name": "Backend Services",
+      "category": "technical",
+      "strength": 0.5,
+      "evidence": ["Built a custom indexing service that pre-aggregates liquidity, pricing and user-activity data into a queryable store"]
+    },
+    {
+      "name": "Retrieval / RAG",
+      "category": "technical",
+      "strength": 0.4,
+      "evidence": ["AI: LangChain, LangGraph, RAG, Ollama, Langfuse"]
+    },
+    {
+      "name": "Product Monetization",
+      "category": "product",
+      "strength": 0.4,
+      "evidence": ["Generated $1,000 in product revenue within 10 days of launching Farfield on Farcaster."]
+    },
+    {
+      "name": "Python",
+      "category": "technical",
+      "strength": 0.3,
+      "evidence": ["Languages: TypeScript, JavaScript, Python, C++"]
+    },
+    {
+      "name": "Testing",
+      "category": "technical",
+      "strength": 0.3,
+      "evidence": ["Tooling: Git, Docker, Firebase, Cypress, Jest, Figma, Postman, WebSockets"]
+    },
+    {
+      "name": "Docker",
+      "category": "technical",
+      "strength": 0.25,
+      "evidence": ["Tooling: Git, Docker, Firebase, Cypress, Jest, Figma, Postman, WebSockets"]
+    },
+    {
+      "name": "Figma",
+      "category": "design",
+      "strength": 0.25,
+      "evidence": ["Tooling: Git, Docker, Firebase, Cypress, Jest, Figma, Postman, WebSockets"]
+    }
+  ]
+}

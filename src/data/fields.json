@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "frontend",
+    "name": "Frontend Engineer",
+    "family": "software",
+    "tagline": "Build the interfaces people touch every day.",
+    "overview": "Turn designs into fast, accessible interfaces. Senior roles own state, performance and frontend architecture.",
+    "dayToDay": [
+      "Build UI components and pages",
+      "Work with designers on interactions",
+      "Fix performance and accessibility issues"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "JavaScript",
+        "weight": 3
+      },
+      {
+        "name": "TypeScript",
+        "weight": 2
+      },
+      {
+        "name": "React",
+        "weight": 3
+      },
+      {
+        "name": "CSS",
+        "weight": 3
+      },
+      {
+        "name": "Accessibility",
+        "weight": 2
+      },
+      {
+        "name": "Web Performance",
+        "weight": 2
+      },
+      {
+        "name": "Frontend Architecture",
+        "weight": 2
+      },
+      {
+        "name": "Testing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "design-engineer",
+    "name": "Design Engineer",
+    "family": "software",
+    "tagline": "Where design craft meets production code.",
+    "overview": "Bridge design and engineering: build design systems, polished interactions and motion, often prototyping new product ideas in code.",
+    "dayToDay": [
+      "Build and maintain the design system",
+      "Prototype interactions and motion in code",
+      "Pair with designers on UI quality"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "React",
+        "weight": 3
+      },
+      {
+        "name": "CSS",
+        "weight": 3
+      },
+      {
+        "name": "Design Systems",
+        "weight": 3
+      },
+      {
+        "name": "Animation & Motion",
+        "weight": 2
+      },
+      {
+        "name": "UI Design",
+        "weight": 2
+      },
+      {
+        "name": "Figma",
+        "weight": 1
+      },
+      {
+        "name": "Prototyping",
+        "weight": 2
+      },
+      {
+        "name": "Accessibility",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "backend",
+    "name": "Backend Engineer",
+    "family": "software",
+    "tagline": "Build the services and data behind every product.",
+    "overview": "Design APIs, data models and services that are fast, reliable and secure at scale.",
+    "dayToDay": [
+      "Design APIs and data models",
+      "Build and scale services",
+      "Debug production issues"
+    ],
+    "payRange": {
+      "min": 70000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "API Design",
+        "weight": 3
+      },
+      {
+        "name": "Databases",
+        "weight": 3
+      },
+      {
+        "name": "SQL",
+        "weight": 2
+      },
+      {
+        "name": "System Design",
+        "weight": 2
+      },
+      {
+        "name": "Distributed Systems",
+        "weight": 2
+      },
+      {
+        "name": "Node.js",
+        "weight": 1
+      },
+      {
+        "name": "Go",
+        "weight": 1
+      },
+      {
+        "name": "Java",
+        "weight": 1
+      },
+      {
+        "name": "Testing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "fullstack",
+    "name": "Full-stack Engineer",
+    "family": "software",
+    "tagline": "Ship whole features, database to button.",
+    "overview": "Own features end to end: APIs, data and the UI on top. Most valued in startups and small product teams.",
+    "dayToDay": [
+      "Design APIs and schemas",
+      "Build the UI that uses them",
+      "Deploy and monitor features"
+    ],
+    "payRange": {
+      "min": 70000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "JavaScript",
+        "weight": 2
+      },
+      {
+        "name": "TypeScript",
+        "weight": 2
+      },
+      {
+        "name": "React",
+        "weight": 2
+      },
+      {
+        "name": "Node.js",
+        "weight": 3
+      },
+      {
+        "name": "SQL",
+        "weight": 2
+      },
+      {
+        "name": "API Design",
+        "weight": 3
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 1
+      },
+      {
+        "name": "Full-stack Shipping",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile Developer",
+    "family": "software",
+    "tagline": "Build the apps in people's pockets.",
+    "overview": "Build iOS and Android apps, natively or with React Native. Strong overlap with frontend skills.",
+    "dayToDay": [
+      "Build screens and native integrations",
+      "Handle offline state and releases",
+      "Tune performance on real devices"
+    ],
+    "payRange": {
+      "min": 65000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "React Native",
+        "weight": 3
+      },
+      {
+        "name": "Swift / Kotlin",
+        "weight": 2
+      },
+      {
+        "name": "JavaScript",
+        "weight": 2
+      },
+      {
+        "name": "Mobile UI Patterns",
+        "weight": 3
+      },
+      {
+        "name": "API Integration",
+        "weight": 2
+      },
+      {
+        "name": "App Store Release",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "game-dev",
+    "name": "Game Developer",
+    "family": "software",
+    "tagline": "Build games and interactive worlds.",
+    "overview": "Program gameplay, graphics and engines. Competitive and passion-driven, with skills that transfer to 3D and XR.",
+    "dayToDay": [
+      "Program gameplay systems",
+      "Optimise frame rate and memory",
+      "Work with artists and designers"
+    ],
+    "payRange": {
+      "min": 50000,
+      "max": 160000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Game Engines",
+        "weight": 3
+      },
+      {
+        "name": "C++",
+        "weight": 2
+      },
+      {
+        "name": "C#",
+        "weight": 2
+      },
+      {
+        "name": "3D Graphics",
+        "weight": 3
+      },
+      {
+        "name": "ML Math",
+        "weight": 1
+      },
+      {
+        "name": "Performance Profiling",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "embedded-iot",
+    "name": "Embedded / IoT Engineer",
+    "family": "software",
+    "tagline": "Write software that runs on hardware.",
+    "overview": "Program devices, from wearables to cars: low-level code, tight memory and real hardware.",
+    "dayToDay": [
+      "Write firmware and drivers",
+      "Debug on real hardware",
+      "Optimise for power and memory"
+    ],
+    "payRange": {
+      "min": 65000,
+      "max": 170000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Embedded Systems",
+        "weight": 3
+      },
+      {
+        "name": "C++",
+        "weight": 3
+      },
+      {
+        "name": "Electronics",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 2
+      },
+      {
+        "name": "Networking",
+        "weight": 1
+      },
+      {
+        "name": "Testing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "founding-engineer",
+    "name": "Founding Engineer",
+    "family": "software",
+    "tagline": "Be the first engineer and build the whole product.",
+    "overview": "Join an early startup and build everything from scratch: product, infrastructure and often the team. Speed and ownership matter more than specialisation.",
+    "dayToDay": [
+      "Ship product end to end, fast",
+      "Talk to users and decide what to build",
+      "Set up infrastructure and hire"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Full-stack Shipping",
+        "weight": 3
+      },
+      {
+        "name": "Rapid Prototyping",
+        "weight": 3
+      },
+      {
+        "name": "Product Strategy",
+        "weight": 2
+      },
+      {
+        "name": "Technical Leadership",
+        "weight": 2
+      },
+      {
+        "name": "System Design",
+        "weight": 1
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 1
+      },
+      {
+        "name": "Self-management",
+        "weight": 2
+      },
+      {
+        "name": "React",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "ai-engineering",
+    "name": "AI Engineer",
+    "family": "ai-data",
+    "tagline": "Build products on top of language models.",
+    "overview": "Ship features powered by LLMs: prompts, retrieval, agents, evals and the product around them. One of the fastest-growing roles.",
+    "dayToDay": [
+      "Design prompts, tools and agent flows",
+      "Build retrieval pipelines and evals",
+      "Ship AI features into products"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 250000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "LLM APIs",
+        "weight": 3
+      },
+      {
+        "name": "Prompt Engineering",
+        "weight": 2
+      },
+      {
+        "name": "Retrieval / RAG",
+        "weight": 2
+      },
+      {
+        "name": "Evals",
+        "weight": 2
+      },
+      {
+        "name": "AI Agents",
+        "weight": 2
+      },
+      {
+        "name": "Python",
+        "weight": 2
+      },
+      {
+        "name": "API Design",
+        "weight": 1
+      },
+      {
+        "name": "TypeScript",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "ml-engineering",
+    "name": "ML Engineer",
+    "family": "ai-data",
+    "tagline": "Train and ship machine learning models.",
+    "overview": "Build, train and deploy ML models in production: data, features, training and serving.",
+    "dayToDay": [
+      "Train and evaluate models",
+      "Build feature and training pipelines",
+      "Deploy and monitor models"
+    ],
+    "payRange": {
+      "min": 100000,
+      "max": 250000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Machine Learning",
+        "weight": 3
+      },
+      {
+        "name": "Python",
+        "weight": 3
+      },
+      {
+        "name": "Deep Learning",
+        "weight": 2
+      },
+      {
+        "name": "ML Math",
+        "weight": 2
+      },
+      {
+        "name": "Model Deployment",
+        "weight": 2
+      },
+      {
+        "name": "Data Pipelines",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "mlops",
+    "name": "MLOps Engineer",
+    "family": "ai-data",
+    "tagline": "Run the infrastructure that ML runs on.",
+    "overview": "Build the platforms, pipelines and GPU infrastructure that let teams train and serve models reliably.",
+    "dayToDay": [
+      "Build training and serving pipelines",
+      "Manage GPU and cloud infrastructure",
+      "Monitor models in production"
+    ],
+    "payRange": {
+      "min": 100000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Model Deployment",
+        "weight": 3
+      },
+      {
+        "name": "Docker / Kubernetes",
+        "weight": 3
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 2
+      },
+      {
+        "name": "Python",
+        "weight": 2
+      },
+      {
+        "name": "CI/CD",
+        "weight": 2
+      },
+      {
+        "name": "Monitoring & Observability",
+        "weight": 2
+      },
+      {
+        "name": "Machine Learning",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "data-science",
+    "name": "Data Scientist",
+    "family": "ai-data",
+    "tagline": "Find answers and predictions in data.",
+    "overview": "Use statistics and machine learning to answer business questions and build predictive models.",
+    "dayToDay": [
+      "Explore data and build models",
+      "Design and analyse experiments",
+      "Present findings to decision makers"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Statistics",
+        "weight": 3
+      },
+      {
+        "name": "Python",
+        "weight": 3
+      },
+      {
+        "name": "Machine Learning",
+        "weight": 2
+      },
+      {
+        "name": "SQL",
+        "weight": 2
+      },
+      {
+        "name": "Experimentation",
+        "weight": 2
+      },
+      {
+        "name": "Data Visualization",
+        "weight": 1
+      },
+      {
+        "name": "ML Math",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "data-engineering",
+    "name": "Data Engineer",
+    "family": "ai-data",
+    "tagline": "Build the pipelines that move data.",
+    "overview": "Build reliable pipelines and warehouses so analysts and models get clean, fresh data.",
+    "dayToDay": [
+      "Build and schedule data pipelines",
+      "Model data in the warehouse",
+      "Fix data quality issues"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Data Pipelines",
+        "weight": 3
+      },
+      {
+        "name": "SQL",
+        "weight": 3
+      },
+      {
+        "name": "Python",
+        "weight": 2
+      },
+      {
+        "name": "Data Modeling",
+        "weight": 2
+      },
+      {
+        "name": "Big Data Tools",
+        "weight": 2
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 1
+      },
+      {
+        "name": "Databases",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "data-analytics",
+    "name": "Data Analyst",
+    "family": "ai-data",
+    "tagline": "Turn data into decisions.",
+    "overview": "Answer business questions with SQL, dashboards and clear storytelling.",
+    "dayToDay": [
+      "Write SQL and build dashboards",
+      "Analyse experiments and trends",
+      "Present findings"
+    ],
+    "payRange": {
+      "min": 55000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "SQL",
+        "weight": 3
+      },
+      {
+        "name": "Data Visualization",
+        "weight": 3
+      },
+      {
+        "name": "Statistics",
+        "weight": 2
+      },
+      {
+        "name": "Python",
+        "weight": 1
+      },
+      {
+        "name": "Product Analytics",
+        "weight": 2
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "analytics-engineering",
+    "name": "Analytics Engineer",
+    "family": "ai-data",
+    "tagline": "Make company data trustworthy and usable.",
+    "overview": "Sit between data engineering and analysis: model data, define metrics and build the layer analysts query.",
+    "dayToDay": [
+      "Model data and define metrics",
+      "Test and document data",
+      "Support analysts and dashboards"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "SQL",
+        "weight": 3
+      },
+      {
+        "name": "Data Modeling",
+        "weight": 3
+      },
+      {
+        "name": "Data Pipelines",
+        "weight": 2
+      },
+      {
+        "name": "Testing",
+        "weight": 1
+      },
+      {
+        "name": "Data Visualization",
+        "weight": 1
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "ai-research",
+    "name": "AI Research Scientist",
+    "family": "ai-data",
+    "tagline": "Push what AI models can do.",
+    "overview": "Invent and test new model architectures, training methods and evaluations. Usually needs strong maths and research experience.",
+    "dayToDay": [
+      "Run experiments on models",
+      "Read and write papers",
+      "Turn research into prototypes"
+    ],
+    "payRange": {
+      "min": 120000,
+      "max": 350000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Deep Learning",
+        "weight": 3
+      },
+      {
+        "name": "ML Math",
+        "weight": 3
+      },
+      {
+        "name": "Research Methods",
+        "weight": 3
+      },
+      {
+        "name": "Python",
+        "weight": 2
+      },
+      {
+        "name": "Machine Learning",
+        "weight": 2
+      },
+      {
+        "name": "Evals",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "devops",
+    "name": "DevOps Engineer",
+    "family": "infra",
+    "tagline": "Automate how software gets built and shipped.",
+    "overview": "Build CI/CD pipelines and infrastructure automation so teams ship safely and often.",
+    "dayToDay": [
+      "Build CI/CD pipelines",
+      "Automate infrastructure",
+      "Improve deploy speed and safety"
+    ],
+    "payRange": {
+      "min": 75000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "CI/CD",
+        "weight": 3
+      },
+      {
+        "name": "Docker / Kubernetes",
+        "weight": 3
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 2
+      },
+      {
+        "name": "Infrastructure as Code",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 2
+      },
+      {
+        "name": "Monitoring & Observability",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "platform-engineering",
+    "name": "Platform Engineer",
+    "family": "infra",
+    "tagline": "Build the internal platform other engineers use.",
+    "overview": "Build internal tools, golden paths and infrastructure products that make every other team faster.",
+    "dayToDay": [
+      "Build internal developer platforms",
+      "Design self-service infrastructure",
+      "Support product teams"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Docker / Kubernetes",
+        "weight": 3
+      },
+      {
+        "name": "Infrastructure as Code",
+        "weight": 3
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 2
+      },
+      {
+        "name": "System Design",
+        "weight": 2
+      },
+      {
+        "name": "Go",
+        "weight": 1
+      },
+      {
+        "name": "API Design",
+        "weight": 1
+      },
+      {
+        "name": "CI/CD",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "sre",
+    "name": "Site Reliability Engineer",
+    "family": "infra",
+    "tagline": "Keep production fast and up.",
+    "overview": "Own reliability: monitoring, incident response, capacity and making systems fail gracefully.",
+    "dayToDay": [
+      "Build monitoring and alerts",
+      "Lead incident response",
+      "Improve system reliability"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Monitoring & Observability",
+        "weight": 3
+      },
+      {
+        "name": "Incident Response",
+        "weight": 3
+      },
+      {
+        "name": "Distributed Systems",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 2
+      },
+      {
+        "name": "Docker / Kubernetes",
+        "weight": 2
+      },
+      {
+        "name": "Go",
+        "weight": 1
+      },
+      {
+        "name": "Python",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "cloud-architect",
+    "name": "Cloud Architect",
+    "family": "infra",
+    "tagline": "Design how systems run in the cloud.",
+    "overview": "Design secure, scalable, cost-effective cloud setups and guide teams to build on them.",
+    "dayToDay": [
+      "Design cloud architecture",
+      "Review security and cost",
+      "Guide teams on cloud adoption"
+    ],
+    "payRange": {
+      "min": 110000,
+      "max": 240000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Cloud Platforms",
+        "weight": 3
+      },
+      {
+        "name": "System Design",
+        "weight": 3
+      },
+      {
+        "name": "Networking",
+        "weight": 2
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Infrastructure as Code",
+        "weight": 1
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "database-engineering",
+    "name": "Database Engineer",
+    "family": "infra",
+    "tagline": "Make data storage fast and safe.",
+    "overview": "Design, tune and operate databases: schemas, queries, replication and backups.",
+    "dayToDay": [
+      "Tune slow queries",
+      "Design schemas and indexes",
+      "Run backups, replication and migrations"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Databases",
+        "weight": 3
+      },
+      {
+        "name": "SQL",
+        "weight": 3
+      },
+      {
+        "name": "Data Modeling",
+        "weight": 2
+      },
+      {
+        "name": "Performance Profiling",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 1
+      },
+      {
+        "name": "Distributed Systems",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "network-engineering",
+    "name": "Network Engineer",
+    "family": "infra",
+    "tagline": "Keep everything connected.",
+    "overview": "Design and run networks, from offices to data centres and cloud, with security and uptime in mind.",
+    "dayToDay": [
+      "Configure and monitor networks",
+      "Troubleshoot connectivity",
+      "Plan network security"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 160000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Networking",
+        "weight": 3
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 2
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 1
+      },
+      {
+        "name": "Monitoring & Observability",
+        "weight": 1
+      },
+      {
+        "name": "Incident Response",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "appsec",
+    "name": "Application Security Engineer",
+    "family": "security",
+    "tagline": "Make the code itself secure.",
+    "overview": "Find and fix security flaws in applications: code review, threat modeling and secure-by-default tooling.",
+    "dayToDay": [
+      "Review code for security bugs",
+      "Threat-model new features",
+      "Build security tooling"
+    ],
+    "payRange": {
+      "min": 100000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Secure Code Review",
+        "weight": 3
+      },
+      {
+        "name": "Threat Modeling",
+        "weight": 3
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 3
+      },
+      {
+        "name": "API Design",
+        "weight": 1
+      },
+      {
+        "name": "JavaScript",
+        "weight": 1
+      },
+      {
+        "name": "Python",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "security-analyst",
+    "name": "Security Analyst",
+    "family": "security",
+    "tagline": "Detect and respond to attacks.",
+    "overview": "Watch for threats, investigate alerts and respond to incidents, usually in a security operations centre.",
+    "dayToDay": [
+      "Investigate security alerts",
+      "Respond to incidents",
+      "Improve detection rules"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Log Analysis",
+        "weight": 3
+      },
+      {
+        "name": "Incident Response",
+        "weight": 3
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 3
+      },
+      {
+        "name": "Networking",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "pentester",
+    "name": "Penetration Tester",
+    "family": "security",
+    "tagline": "Break in before attackers do.",
+    "overview": "Ethically hack systems, apps and networks, then explain the risks and fixes.",
+    "dayToDay": [
+      "Test apps and networks for weaknesses",
+      "Write findings reports",
+      "Retest fixes"
+    ],
+    "payRange": {
+      "min": 70000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Penetration Testing",
+        "weight": 3
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 3
+      },
+      {
+        "name": "Networking",
+        "weight": 2
+      },
+      {
+        "name": "Linux",
+        "weight": 2
+      },
+      {
+        "name": "Python",
+        "weight": 1
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "smart-contract-auditor",
+    "name": "Smart Contract Auditor",
+    "family": "security",
+    "tagline": "Find bugs before they cost millions.",
+    "overview": "Review smart contracts for vulnerabilities. A niche, high-stakes role that pays well for deep Solidity and security skills.",
+    "dayToDay": [
+      "Audit contracts line by line",
+      "Write vulnerability reports",
+      "Compete in audit contests"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 300000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Smart Contract Security",
+        "weight": 3
+      },
+      {
+        "name": "Solidity",
+        "weight": 3
+      },
+      {
+        "name": "Secure Code Review",
+        "weight": 2
+      },
+      {
+        "name": "Blockchain Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Cryptography",
+        "weight": 1
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "smart-contract-engineer",
+    "name": "Smart Contract Engineer",
+    "family": "web3",
+    "tagline": "Write the code that runs on-chain.",
+    "overview": "Design and build smart contracts for DeFi, NFTs and protocols, where bugs are expensive and gas matters.",
+    "dayToDay": [
+      "Write and test smart contracts",
+      "Optimise gas costs",
+      "Work with auditors"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Solidity",
+        "weight": 3
+      },
+      {
+        "name": "Smart Contract Security",
+        "weight": 3
+      },
+      {
+        "name": "Blockchain Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Testing",
+        "weight": 2
+      },
+      {
+        "name": "Web3 Libraries",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "web3-frontend",
+    "name": "Web3 / dApp Engineer",
+    "family": "web3",
+    "tagline": "Build the apps people use to go on-chain.",
+    "overview": "Build wallet-connected frontends for exchanges, wallets and protocols: transactions, signing and real-time chain data.",
+    "dayToDay": [
+      "Build wallet-connected UIs",
+      "Handle transaction flows and errors",
+      "Integrate protocols and chain data"
+    ],
+    "payRange": {
+      "min": 70000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "React",
+        "weight": 3
+      },
+      {
+        "name": "TypeScript",
+        "weight": 2
+      },
+      {
+        "name": "Web3 Libraries",
+        "weight": 3
+      },
+      {
+        "name": "Blockchain Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Real-time Systems",
+        "weight": 1
+      },
+      {
+        "name": "Frontend Architecture",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "protocol-engineering",
+    "name": "Protocol Engineer",
+    "family": "web3",
+    "tagline": "Build the blockchain itself.",
+    "overview": "Work on consensus, networking and node software for blockchains. Deep systems work in Rust or Go.",
+    "dayToDay": [
+      "Build node and consensus software",
+      "Optimise performance and security",
+      "Review protocol upgrades"
+    ],
+    "payRange": {
+      "min": 110000,
+      "max": 280000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Distributed Systems",
+        "weight": 3
+      },
+      {
+        "name": "Rust",
+        "weight": 2
+      },
+      {
+        "name": "Go",
+        "weight": 2
+      },
+      {
+        "name": "Cryptography",
+        "weight": 2
+      },
+      {
+        "name": "Blockchain Fundamentals",
+        "weight": 2
+      },
+      {
+        "name": "Networking",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "qa-automation",
+    "name": "QA / Test Automation Engineer",
+    "family": "quality",
+    "tagline": "Catch bugs before users do.",
+    "overview": "Build automated test suites and quality processes so teams can ship confidently.",
+    "dayToDay": [
+      "Write automated tests",
+      "Build test infrastructure",
+      "Track and triage bugs"
+    ],
+    "payRange": {
+      "min": 55000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Test Automation",
+        "weight": 3
+      },
+      {
+        "name": "Testing",
+        "weight": 3
+      },
+      {
+        "name": "JavaScript",
+        "weight": 1
+      },
+      {
+        "name": "Python",
+        "weight": 1
+      },
+      {
+        "name": "CI/CD",
+        "weight": 2
+      },
+      {
+        "name": "API Integration",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "performance-engineering",
+    "name": "Performance Engineer",
+    "family": "quality",
+    "tagline": "Make software faster.",
+    "overview": "Find and fix performance bottlenecks with profiling, load testing and deep systems knowledge.",
+    "dayToDay": [
+      "Profile and load-test systems",
+      "Find bottlenecks",
+      "Set and track performance budgets"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 210000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Performance Profiling",
+        "weight": 3
+      },
+      {
+        "name": "Web Performance",
+        "weight": 2
+      },
+      {
+        "name": "Distributed Systems",
+        "weight": 2
+      },
+      {
+        "name": "Monitoring & Observability",
+        "weight": 2
+      },
+      {
+        "name": "Test Automation",
+        "weight": 1
+      },
+      {
+        "name": "C++",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "product-management",
+    "name": "Product Manager",
+    "family": "product-design",
+    "tagline": "Decide what gets built, and why.",
+    "overview": "Own the problem, the roadmap and the outcome, aligning engineering, design and business.",
+    "dayToDay": [
+      "Talk to users and define problems",
+      "Write specs and prioritise",
+      "Align teams on outcomes"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Product Strategy",
+        "weight": 3
+      },
+      {
+        "name": "User Research",
+        "weight": 2
+      },
+      {
+        "name": "Product Analytics",
+        "weight": 2
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 3
+      },
+      {
+        "name": "Spec Writing",
+        "weight": 2
+      },
+      {
+        "name": "Project Management",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "technical-pm",
+    "name": "Technical Product Manager",
+    "family": "product-design",
+    "tagline": "Product management for technical products.",
+    "overview": "PM for APIs, platforms, AI and developer tools, where an engineering background is a real advantage.",
+    "dayToDay": [
+      "Define technical product requirements",
+      "Work closely with engineers on trade-offs",
+      "Talk to developer customers"
+    ],
+    "payRange": {
+      "min": 100000,
+      "max": 230000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Product Strategy",
+        "weight": 3
+      },
+      {
+        "name": "System Design",
+        "weight": 2
+      },
+      {
+        "name": "Spec Writing",
+        "weight": 2
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 2
+      },
+      {
+        "name": "API Design",
+        "weight": 1
+      },
+      {
+        "name": "User Research",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "product-design",
+    "name": "Product Designer",
+    "family": "product-design",
+    "tagline": "Decide how products work and feel.",
+    "overview": "Research needs, design flows and interfaces, and test them with users.",
+    "dayToDay": [
+      "Design flows and screens",
+      "Run usability tests",
+      "Maintain the design system"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 170000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "UI Design",
+        "weight": 3
+      },
+      {
+        "name": "Figma",
+        "weight": 3
+      },
+      {
+        "name": "User Research",
+        "weight": 2
+      },
+      {
+        "name": "Prototyping",
+        "weight": 2
+      },
+      {
+        "name": "Design Systems",
+        "weight": 1
+      },
+      {
+        "name": "Usability Testing",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "ux-research",
+    "name": "UX Researcher",
+    "family": "product-design",
+    "tagline": "Understand what users really need.",
+    "overview": "Plan and run interviews, studies and tests, and turn them into decisions for product teams.",
+    "dayToDay": [
+      "Plan and run user studies",
+      "Synthesise findings",
+      "Share insights with product teams"
+    ],
+    "payRange": {
+      "min": 65000,
+      "max": 160000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "User Research",
+        "weight": 3
+      },
+      {
+        "name": "Usability Testing",
+        "weight": 3
+      },
+      {
+        "name": "Research Methods",
+        "weight": 2
+      },
+      {
+        "name": "Statistics",
+        "weight": 1
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "product-analytics",
+    "name": "Product Analyst",
+    "family": "product-design",
+    "tagline": "Measure what makes a product work.",
+    "overview": "Track user behaviour, funnels and experiments so product teams know what is working.",
+    "dayToDay": [
+      "Build funnels and dashboards",
+      "Analyse experiments",
+      "Recommend product changes"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 160000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Product Analytics",
+        "weight": 3
+      },
+      {
+        "name": "SQL",
+        "weight": 3
+      },
+      {
+        "name": "Experimentation",
+        "weight": 2
+      },
+      {
+        "name": "Statistics",
+        "weight": 2
+      },
+      {
+        "name": "Data Visualization",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "growth-engineering",
+    "name": "Growth Engineer",
+    "family": "product-design",
+    "tagline": "Engineer for sign-ups, activation and revenue.",
+    "overview": "Run fast experiments across onboarding, pricing and acquisition, combining product engineering with analytics.",
+    "dayToDay": [
+      "Build and ship growth experiments",
+      "Optimise onboarding and conversion",
+      "Analyse results"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 210000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Experimentation",
+        "weight": 3
+      },
+      {
+        "name": "Full-stack Shipping",
+        "weight": 2
+      },
+      {
+        "name": "Product Analytics",
+        "weight": 2
+      },
+      {
+        "name": "React",
+        "weight": 2
+      },
+      {
+        "name": "Rapid Prototyping",
+        "weight": 2
+      },
+      {
+        "name": "Marketing",
+        "weight": 1
+      },
+      {
+        "name": "Product Monetization",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "devrel",
+    "name": "Developer Advocate",
+    "family": "developer-facing",
+    "tagline": "Teach developers and grow a community.",
+    "overview": "Help developers succeed with a product through demos, docs, talks and community work.",
+    "dayToDay": [
+      "Build demo apps and sample code",
+      "Write tutorials and give talks",
+      "Bring developer feedback to the product team"
+    ],
+    "payRange": {
+      "min": 70000,
+      "max": 190000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Technical Writing",
+        "weight": 3
+      },
+      {
+        "name": "Public Speaking",
+        "weight": 3
+      },
+      {
+        "name": "Community Building",
+        "weight": 3
+      },
+      {
+        "name": "Rapid Prototyping",
+        "weight": 2
+      },
+      {
+        "name": "Content Creation",
+        "weight": 2
+      },
+      {
+        "name": "JavaScript",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "technical-writing",
+    "name": "Technical Writer",
+    "family": "developer-facing",
+    "tagline": "Make complex things easy to understand.",
+    "overview": "Write docs, guides and API references developers actually use.",
+    "dayToDay": [
+      "Write product documentation",
+      "Create tutorials and API references",
+      "Work with engineers on new features"
+    ],
+    "payRange": {
+      "min": 55000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Technical Writing",
+        "weight": 3
+      },
+      {
+        "name": "API Integration",
+        "weight": 1
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 1
+      },
+      {
+        "name": "Content Creation",
+        "weight": 2
+      },
+      {
+        "name": "User Research",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "solutions-engineering",
+    "name": "Solutions / Sales Engineer",
+    "family": "developer-facing",
+    "tagline": "Win customers with technical depth.",
+    "overview": "Run demos, design integrations and solve technical questions for customers during the sales process.",
+    "dayToDay": [
+      "Run technical demos",
+      "Design customer integrations",
+      "Answer technical questions in deals"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 220000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Client Communication",
+        "weight": 3
+      },
+      {
+        "name": "API Integration",
+        "weight": 3
+      },
+      {
+        "name": "Rapid Prototyping",
+        "weight": 2
+      },
+      {
+        "name": "Sales",
+        "weight": 2
+      },
+      {
+        "name": "Public Speaking",
+        "weight": 1
+      },
+      {
+        "name": "System Design",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "devex",
+    "name": "Developer Experience Engineer",
+    "family": "developer-facing",
+    "tagline": "Make developers' lives easier.",
+    "overview": "Build SDKs, CLIs, tooling and docs that make a platform easy to use, for internal or external developers.",
+    "dayToDay": [
+      "Build SDKs and CLIs",
+      "Improve onboarding and docs",
+      "Measure developer friction"
+    ],
+    "payRange": {
+      "min": 90000,
+      "max": 210000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "API Design",
+        "weight": 3
+      },
+      {
+        "name": "TypeScript",
+        "weight": 2
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 2
+      },
+      {
+        "name": "Frontend Architecture",
+        "weight": 1
+      },
+      {
+        "name": "CI/CD",
+        "weight": 1
+      },
+      {
+        "name": "User Research",
+        "weight": 1
+      },
+      {
+        "name": "Node.js",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "customer-success-engineering",
+    "name": "Customer Success Engineer",
+    "family": "developer-facing",
+    "tagline": "Keep technical customers happy and growing.",
+    "overview": "Help customers adopt and get value from a technical product: debugging, onboarding and advice.",
+    "dayToDay": [
+      "Onboard and support customers",
+      "Debug customer integrations",
+      "Feed issues back to product"
+    ],
+    "payRange": {
+      "min": 60000,
+      "max": 150000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Customer Support",
+        "weight": 3
+      },
+      {
+        "name": "API Integration",
+        "weight": 2
+      },
+      {
+        "name": "Client Communication",
+        "weight": 3
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 1
+      },
+      {
+        "name": "SQL",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "engineering-management",
+    "name": "Engineering Manager",
+    "family": "leadership",
+    "tagline": "Lead the people who build the product.",
+    "overview": "Grow and lead an engineering team: hiring, coaching, delivery and working with product.",
+    "dayToDay": [
+      "Run 1:1s and coach engineers",
+      "Hire and grow the team",
+      "Plan and deliver with product"
+    ],
+    "payRange": {
+      "min": 130000,
+      "max": 280000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "People Management",
+        "weight": 3
+      },
+      {
+        "name": "Hiring",
+        "weight": 2
+      },
+      {
+        "name": "Project Management",
+        "weight": 2
+      },
+      {
+        "name": "Technical Leadership",
+        "weight": 2
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 2
+      },
+      {
+        "name": "Mentoring",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "staff-engineer",
+    "name": "Staff / Principal Engineer",
+    "family": "leadership",
+    "tagline": "Lead through technical depth, not management.",
+    "overview": "Set technical direction across teams, solve the hardest problems and raise everyone's level.",
+    "dayToDay": [
+      "Design cross-team architecture",
+      "Unblock the hardest problems",
+      "Mentor senior engineers"
+    ],
+    "payRange": {
+      "min": 160000,
+      "max": 350000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "System Design",
+        "weight": 3
+      },
+      {
+        "name": "Technical Leadership",
+        "weight": 3
+      },
+      {
+        "name": "Distributed Systems",
+        "weight": 2
+      },
+      {
+        "name": "Mentoring",
+        "weight": 2
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 1
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "solutions-architect",
+    "name": "Solutions Architect",
+    "family": "leadership",
+    "tagline": "Design how big systems fit together.",
+    "overview": "Design end-to-end solutions for customers or internal programmes across cloud, data and applications.",
+    "dayToDay": [
+      "Design solution architectures",
+      "Advise customers and teams",
+      "Review technical risk"
+    ],
+    "payRange": {
+      "min": 110000,
+      "max": 240000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "System Design",
+        "weight": 3
+      },
+      {
+        "name": "Cloud Platforms",
+        "weight": 3
+      },
+      {
+        "name": "Client Communication",
+        "weight": 2
+      },
+      {
+        "name": "API Integration",
+        "weight": 1
+      },
+      {
+        "name": "Security Fundamentals",
+        "weight": 1
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "cto-cofounder",
+    "name": "CTO / Technical Co-founder",
+    "family": "leadership",
+    "tagline": "Start a company and own its technology.",
+    "overview": "Co-found a startup: build the first product, set the technical strategy, hire the team and help raise money.",
+    "dayToDay": [
+      "Build the first product",
+      "Hire and lead engineers",
+      "Shape strategy and fundraising"
+    ],
+    "payRange": {
+      "min": 0,
+      "max": 300000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Full-stack Shipping",
+        "weight": 3
+      },
+      {
+        "name": "Technical Leadership",
+        "weight": 3
+      },
+      {
+        "name": "Business Strategy",
+        "weight": 2
+      },
+      {
+        "name": "Hiring",
+        "weight": 2
+      },
+      {
+        "name": "Product Strategy",
+        "weight": 2
+      },
+      {
+        "name": "Rapid Prototyping",
+        "weight": 1
+      },
+      {
+        "name": "Self-management",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "freelance-agency",
+    "name": "Freelancer / Agency",
+    "family": "independent",
+    "tagline": "Sell your skills to clients.",
+    "overview": "Build projects for clients, solo or with a small agency. Income depends on pricing, reputation and pipeline.",
+    "dayToDay": [
+      "Find and win clients",
+      "Deliver projects end to end",
+      "Manage scope and invoices"
+    ],
+    "payRange": {
+      "min": 20000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Full-stack Shipping",
+        "weight": 3
+      },
+      {
+        "name": "Client Communication",
+        "weight": 3
+      },
+      {
+        "name": "Sales",
+        "weight": 2
+      },
+      {
+        "name": "Project Management",
+        "weight": 2
+      },
+      {
+        "name": "Self-management",
+        "weight": 2
+      },
+      {
+        "name": "React",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "indie-hacker",
+    "name": "Indie Hacker",
+    "family": "independent",
+    "tagline": "Build and sell your own products.",
+    "overview": "Launch your own small software products and grow them to revenue. Highest freedom and the widest range of outcomes.",
+    "dayToDay": [
+      "Find and validate ideas",
+      "Build and launch fast",
+      "Market, sell and support"
+    ],
+    "payRange": {
+      "min": 0,
+      "max": 300000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Rapid Prototyping",
+        "weight": 3
+      },
+      {
+        "name": "Full-stack Shipping",
+        "weight": 3
+      },
+      {
+        "name": "Marketing",
+        "weight": 2
+      },
+      {
+        "name": "Product Monetization",
+        "weight": 2
+      },
+      {
+        "name": "Product Strategy",
+        "weight": 2
+      },
+      {
+        "name": "Self-management",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": "content-creator",
+    "name": "Tech Content Creator",
+    "family": "independent",
+    "tagline": "Teach tech to an audience you build.",
+    "overview": "Make videos, newsletters or courses about technology and earn from sponsors, products and courses.",
+    "dayToDay": [
+      "Create videos, posts or courses",
+      "Grow and engage an audience",
+      "Land sponsors and sell products"
+    ],
+    "payRange": {
+      "min": 10000,
+      "max": 250000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "Content Creation",
+        "weight": 3
+      },
+      {
+        "name": "Public Speaking",
+        "weight": 2
+      },
+      {
+        "name": "Marketing",
+        "weight": 2
+      },
+      {
+        "name": "Technical Writing",
+        "weight": 2
+      },
+      {
+        "name": "Community Building",
+        "weight": 2
+      },
+      {
+        "name": "Self-management",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "tech-consulting",
+    "name": "Technical Consultant",
+    "family": "independent",
+    "tagline": "Get paid for expert advice.",
+    "overview": "Advise companies on architecture, technology choices or specialist areas, project by project.",
+    "dayToDay": [
+      "Assess client systems",
+      "Recommend and plan changes",
+      "Lead workshops and reviews"
+    ],
+    "payRange": {
+      "min": 80000,
+      "max": 250000,
+      "currency": "USD"
+    },
+    "coreSkills": [
+      {
+        "name": "System Design",
+        "weight": 2
+      },
+      {
+        "name": "Client Communication",
+        "weight": 3
+      },
+      {
+        "name": "Stakeholder Communication",
+        "weight": 2
+      },
+      {
+        "name": "Technical Leadership",
+        "weight": 2
+      },
+      {
+        "name": "Sales",
+        "weight": 1
+      },
+      {
+        "name": "Business Strategy",
+        "weight": 1
+      }
+    ]
+  }
+]

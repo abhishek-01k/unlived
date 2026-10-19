@@ -1,0 +1,452 @@
+[
+  {
+    "from": "Frontend Architecture",
+    "to": "Design Systems",
+    "closeness": "partial"
+  },
+  {
+    "from": "Frontend Architecture",
+    "to": "System Design",
+    "closeness": "partial"
+  },
+  {
+    "from": "React",
+    "to": "React Native",
+    "closeness": "partial"
+  },
+  {
+    "from": "CSS",
+    "to": "Animation & Motion",
+    "closeness": "partial"
+  },
+  {
+    "from": "Animation & Motion",
+    "to": "CSS",
+    "closeness": "related"
+  },
+  {
+    "from": "Web Performance",
+    "to": "Performance Profiling",
+    "closeness": "related"
+  },
+  {
+    "from": "TypeScript",
+    "to": "JavaScript",
+    "closeness": "exact"
+  },
+  {
+    "from": "JavaScript",
+    "to": "TypeScript",
+    "closeness": "partial"
+  },
+  {
+    "from": "Node.js",
+    "to": "API Design",
+    "closeness": "partial"
+  },
+  {
+    "from": "API Design",
+    "to": "API Integration",
+    "closeness": "related"
+  },
+  {
+    "from": "API Integration",
+    "to": "API Design",
+    "closeness": "partial"
+  },
+  {
+    "from": "Full-stack Shipping",
+    "to": "Node.js",
+    "closeness": "partial"
+  },
+  {
+    "from": "Full-stack Shipping",
+    "to": "API Design",
+    "closeness": "partial"
+  },
+  {
+    "from": "Full-stack Shipping",
+    "to": "Cloud Platforms",
+    "closeness": "partial"
+  },
+  {
+    "from": "Full-stack Shipping",
+    "to": "Databases",
+    "closeness": "partial"
+  },
+  {
+    "from": "Full-stack Shipping",
+    "to": "Self-management",
+    "closeness": "partial"
+  },
+  {
+    "from": "Real-time Systems",
+    "to": "Distributed Systems",
+    "closeness": "partial"
+  },
+  {
+    "from": "SQL",
+    "to": "Databases",
+    "closeness": "related"
+  },
+  {
+    "from": "Databases",
+    "to": "SQL",
+    "closeness": "related"
+  },
+  {
+    "from": "Data Pipelines",
+    "to": "Data Modeling",
+    "closeness": "partial"
+  },
+  {
+    "from": "Statistics",
+    "to": "Experimentation",
+    "closeness": "partial"
+  },
+  {
+    "from": "Experimentation",
+    "to": "Statistics",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Analytics",
+    "to": "Data Visualization",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Analytics",
+    "to": "SQL",
+    "closeness": "partial"
+  },
+  {
+    "from": "Machine Learning",
+    "to": "ML Math",
+    "closeness": "partial"
+  },
+  {
+    "from": "Machine Learning",
+    "to": "Python",
+    "closeness": "partial"
+  },
+  {
+    "from": "Deep Learning",
+    "to": "Machine Learning",
+    "closeness": "related"
+  },
+  {
+    "from": "AI Agents",
+    "to": "LLM APIs",
+    "closeness": "exact"
+  },
+  {
+    "from": "AI Agents",
+    "to": "Prompt Engineering",
+    "closeness": "related"
+  },
+  {
+    "from": "AI Agents",
+    "to": "Evals",
+    "closeness": "partial"
+  },
+  {
+    "from": "Retrieval / RAG",
+    "to": "LLM APIs",
+    "closeness": "related"
+  },
+  {
+    "from": "Retrieval / RAG",
+    "to": "Data Pipelines",
+    "closeness": "partial"
+  },
+  {
+    "from": "LLM APIs",
+    "to": "Prompt Engineering",
+    "closeness": "related"
+  },
+  {
+    "from": "LLM APIs",
+    "to": "AI Agents",
+    "closeness": "partial"
+  },
+  {
+    "from": "Prompt Engineering",
+    "to": "LLM APIs",
+    "closeness": "related"
+  },
+  {
+    "from": "Model Deployment",
+    "to": "Docker / Kubernetes",
+    "closeness": "partial"
+  },
+  {
+    "from": "Docker / Kubernetes",
+    "to": "Linux",
+    "closeness": "partial"
+  },
+  {
+    "from": "Docker / Kubernetes",
+    "to": "CI/CD",
+    "closeness": "partial"
+  },
+  {
+    "from": "CI/CD",
+    "to": "Docker / Kubernetes",
+    "closeness": "partial"
+  },
+  {
+    "from": "Infrastructure as Code",
+    "to": "Cloud Platforms",
+    "closeness": "related"
+  },
+  {
+    "from": "Cloud Platforms",
+    "to": "Infrastructure as Code",
+    "closeness": "partial"
+  },
+  {
+    "from": "Monitoring & Observability",
+    "to": "Incident Response",
+    "closeness": "partial"
+  },
+  {
+    "from": "Incident Response",
+    "to": "Monitoring & Observability",
+    "closeness": "partial"
+  },
+  {
+    "from": "Linux",
+    "to": "Networking",
+    "closeness": "partial"
+  },
+  {
+    "from": "Secure Code Review",
+    "to": "Security Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "from": "Penetration Testing",
+    "to": "Security Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "from": "Threat Modeling",
+    "to": "Security Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "from": "Cryptography",
+    "to": "Security Fundamentals",
+    "closeness": "partial"
+  },
+  {
+    "from": "Smart Contract Security",
+    "to": "Solidity",
+    "closeness": "related"
+  },
+  {
+    "from": "Smart Contract Security",
+    "to": "Secure Code Review",
+    "closeness": "partial"
+  },
+  {
+    "from": "Solidity",
+    "to": "Blockchain Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "from": "Solidity",
+    "to": "Smart Contract Security",
+    "closeness": "partial"
+  },
+  {
+    "from": "Web3 Libraries",
+    "to": "Blockchain Fundamentals",
+    "closeness": "related"
+  },
+  {
+    "from": "Blockchain Fundamentals",
+    "to": "Web3 Libraries",
+    "closeness": "partial"
+  },
+  {
+    "from": "Testing",
+    "to": "Test Automation",
+    "closeness": "related"
+  },
+  {
+    "from": "Test Automation",
+    "to": "Testing",
+    "closeness": "exact"
+  },
+  {
+    "from": "Figma",
+    "to": "UI Design",
+    "closeness": "partial"
+  },
+  {
+    "from": "UI Design",
+    "to": "Figma",
+    "closeness": "related"
+  },
+  {
+    "from": "Rapid Prototyping",
+    "to": "Prototyping",
+    "closeness": "related"
+  },
+  {
+    "from": "Rapid Prototyping",
+    "to": "Full-stack Shipping",
+    "closeness": "partial"
+  },
+  {
+    "from": "Rapid Prototyping",
+    "to": "Self-management",
+    "closeness": "partial"
+  },
+  {
+    "from": "Usability Testing",
+    "to": "User Research",
+    "closeness": "related"
+  },
+  {
+    "from": "User Research",
+    "to": "Usability Testing",
+    "closeness": "partial"
+  },
+  {
+    "from": "Research Methods",
+    "to": "User Research",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Strategy",
+    "to": "Business Strategy",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Strategy",
+    "to": "Spec Writing",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Monetization",
+    "to": "Product Strategy",
+    "closeness": "related"
+  },
+  {
+    "from": "Product Monetization",
+    "to": "Marketing",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Monetization",
+    "to": "Sales",
+    "closeness": "partial"
+  },
+  {
+    "from": "Product Monetization",
+    "to": "Business Strategy",
+    "closeness": "partial"
+  },
+  {
+    "from": "Business Strategy",
+    "to": "Product Strategy",
+    "closeness": "related"
+  },
+  {
+    "from": "Technical Writing",
+    "to": "Content Creation",
+    "closeness": "related"
+  },
+  {
+    "from": "Technical Writing",
+    "to": "Spec Writing",
+    "closeness": "related"
+  },
+  {
+    "from": "Content Creation",
+    "to": "Technical Writing",
+    "closeness": "partial"
+  },
+  {
+    "from": "Content Creation",
+    "to": "Marketing",
+    "closeness": "partial"
+  },
+  {
+    "from": "Public Speaking",
+    "to": "Content Creation",
+    "closeness": "partial"
+  },
+  {
+    "from": "Community Building",
+    "to": "Public Speaking",
+    "closeness": "partial"
+  },
+  {
+    "from": "Marketing",
+    "to": "Content Creation",
+    "closeness": "partial"
+  },
+  {
+    "from": "Mentoring",
+    "to": "People Management",
+    "closeness": "partial"
+  },
+  {
+    "from": "Technical Leadership",
+    "to": "Mentoring",
+    "closeness": "related"
+  },
+  {
+    "from": "Technical Leadership",
+    "to": "Stakeholder Communication",
+    "closeness": "partial"
+  },
+  {
+    "from": "Technical Leadership",
+    "to": "People Management",
+    "closeness": "partial"
+  },
+  {
+    "from": "Technical Leadership",
+    "to": "Hiring",
+    "closeness": "partial"
+  },
+  {
+    "from": "People Management",
+    "to": "Hiring",
+    "closeness": "related"
+  },
+  {
+    "from": "People Management",
+    "to": "Mentoring",
+    "closeness": "related"
+  },
+  {
+    "from": "Client Communication",
+    "to": "Stakeholder Communication",
+    "closeness": "related"
+  },
+  {
+    "from": "Stakeholder Communication",
+    "to": "Client Communication",
+    "closeness": "related"
+  },
+  {
+    "from": "Customer Support",
+    "to": "Client Communication",
+    "closeness": "partial"
+  },
+  {
+    "from": "Sales",
+    "to": "Client Communication",
+    "closeness": "related"
+  },
+  {
+    "from": "Project Management",
+    "to": "Stakeholder Communication",
+    "closeness": "partial"
+  }
+]

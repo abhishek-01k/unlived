@@ -1,0 +1,382 @@
+[
+  {
+    "name": "JavaScript",
+    "category": "technical"
+  },
+  {
+    "name": "TypeScript",
+    "category": "technical"
+  },
+  {
+    "name": "Python",
+    "category": "technical"
+  },
+  {
+    "name": "Go",
+    "category": "technical"
+  },
+  {
+    "name": "Java",
+    "category": "technical"
+  },
+  {
+    "name": "C++",
+    "category": "technical"
+  },
+  {
+    "name": "Rust",
+    "category": "technical"
+  },
+  {
+    "name": "C#",
+    "category": "technical"
+  },
+  {
+    "name": "Swift / Kotlin",
+    "category": "technical"
+  },
+  {
+    "name": "SQL",
+    "category": "technical"
+  },
+  {
+    "name": "Solidity",
+    "category": "technical"
+  },
+  {
+    "name": "React",
+    "category": "technical"
+  },
+  {
+    "name": "CSS",
+    "category": "technical"
+  },
+  {
+    "name": "Accessibility",
+    "category": "technical"
+  },
+  {
+    "name": "Web Performance",
+    "category": "technical"
+  },
+  {
+    "name": "Animation & Motion",
+    "category": "technical"
+  },
+  {
+    "name": "Design Systems",
+    "category": "technical"
+  },
+  {
+    "name": "Frontend Architecture",
+    "category": "technical"
+  },
+  {
+    "name": "Node.js",
+    "category": "technical"
+  },
+  {
+    "name": "API Design",
+    "category": "technical"
+  },
+  {
+    "name": "API Integration",
+    "category": "technical"
+  },
+  {
+    "name": "Databases",
+    "category": "technical"
+  },
+  {
+    "name": "Distributed Systems",
+    "category": "technical"
+  },
+  {
+    "name": "System Design",
+    "category": "technical"
+  },
+  {
+    "name": "Real-time Systems",
+    "category": "technical"
+  },
+  {
+    "name": "React Native",
+    "category": "technical"
+  },
+  {
+    "name": "Mobile UI Patterns",
+    "category": "technical"
+  },
+  {
+    "name": "App Store Release",
+    "category": "technical"
+  },
+  {
+    "name": "Game Engines",
+    "category": "technical"
+  },
+  {
+    "name": "3D Graphics",
+    "category": "technical"
+  },
+  {
+    "name": "Embedded Systems",
+    "category": "technical"
+  },
+  {
+    "name": "Electronics",
+    "category": "technical"
+  },
+  {
+    "name": "LLM APIs",
+    "category": "technical"
+  },
+  {
+    "name": "Prompt Engineering",
+    "category": "technical"
+  },
+  {
+    "name": "Retrieval / RAG",
+    "category": "technical"
+  },
+  {
+    "name": "Evals",
+    "category": "technical"
+  },
+  {
+    "name": "AI Agents",
+    "category": "technical"
+  },
+  {
+    "name": "Machine Learning",
+    "category": "technical"
+  },
+  {
+    "name": "Deep Learning",
+    "category": "technical"
+  },
+  {
+    "name": "Model Deployment",
+    "category": "technical"
+  },
+  {
+    "name": "ML Math",
+    "category": "technical"
+  },
+  {
+    "name": "Statistics",
+    "category": "technical"
+  },
+  {
+    "name": "Experimentation",
+    "category": "technical"
+  },
+  {
+    "name": "Data Visualization",
+    "category": "technical"
+  },
+  {
+    "name": "Data Pipelines",
+    "category": "technical"
+  },
+  {
+    "name": "Data Modeling",
+    "category": "technical"
+  },
+  {
+    "name": "Big Data Tools",
+    "category": "technical"
+  },
+  {
+    "name": "Linux",
+    "category": "technical"
+  },
+  {
+    "name": "Docker / Kubernetes",
+    "category": "technical"
+  },
+  {
+    "name": "Cloud Platforms",
+    "category": "technical"
+  },
+  {
+    "name": "CI/CD",
+    "category": "technical"
+  },
+  {
+    "name": "Infrastructure as Code",
+    "category": "technical"
+  },
+  {
+    "name": "Monitoring & Observability",
+    "category": "technical"
+  },
+  {
+    "name": "Networking",
+    "category": "technical"
+  },
+  {
+    "name": "Incident Response",
+    "category": "technical"
+  },
+  {
+    "name": "Security Fundamentals",
+    "category": "technical"
+  },
+  {
+    "name": "Threat Modeling",
+    "category": "technical"
+  },
+  {
+    "name": "Secure Code Review",
+    "category": "technical"
+  },
+  {
+    "name": "Penetration Testing",
+    "category": "technical"
+  },
+  {
+    "name": "Log Analysis",
+    "category": "technical"
+  },
+  {
+    "name": "Smart Contract Security",
+    "category": "technical"
+  },
+  {
+    "name": "Blockchain Fundamentals",
+    "category": "technical"
+  },
+  {
+    "name": "Web3 Libraries",
+    "category": "technical"
+  },
+  {
+    "name": "Cryptography",
+    "category": "technical"
+  },
+  {
+    "name": "Testing",
+    "category": "technical"
+  },
+  {
+    "name": "Test Automation",
+    "category": "technical"
+  },
+  {
+    "name": "Performance Profiling",
+    "category": "technical"
+  },
+  {
+    "name": "Full-stack Shipping",
+    "category": "technical"
+  },
+  {
+    "name": "Rapid Prototyping",
+    "category": "technical"
+  },
+  {
+    "name": "UI Design",
+    "category": "design"
+  },
+  {
+    "name": "Figma",
+    "category": "design"
+  },
+  {
+    "name": "Prototyping",
+    "category": "design"
+  },
+  {
+    "name": "Usability Testing",
+    "category": "design"
+  },
+  {
+    "name": "Product Strategy",
+    "category": "product"
+  },
+  {
+    "name": "User Research",
+    "category": "product"
+  },
+  {
+    "name": "Product Analytics",
+    "category": "product"
+  },
+  {
+    "name": "Spec Writing",
+    "category": "product"
+  },
+  {
+    "name": "Product Monetization",
+    "category": "product"
+  },
+  {
+    "name": "Business Strategy",
+    "category": "product"
+  },
+  {
+    "name": "Technical Writing",
+    "category": "communication"
+  },
+  {
+    "name": "Public Speaking",
+    "category": "communication"
+  },
+  {
+    "name": "Community Building",
+    "category": "communication"
+  },
+  {
+    "name": "Content Creation",
+    "category": "communication"
+  },
+  {
+    "name": "Mentoring",
+    "category": "communication"
+  },
+  {
+    "name": "Sales",
+    "category": "communication"
+  },
+  {
+    "name": "Marketing",
+    "category": "communication"
+  },
+  {
+    "name": "Client Communication",
+    "category": "communication"
+  },
+  {
+    "name": "Stakeholder Communication",
+    "category": "communication"
+  },
+  {
+    "name": "Customer Support",
+    "category": "communication"
+  },
+  {
+    "name": "Technical Leadership",
+    "category": "other"
+  },
+  {
+    "name": "People Management",
+    "category": "other"
+  },
+  {
+    "name": "Hiring",
+    "category": "other"
+  },
+  {
+    "name": "Project Management",
+    "category": "other"
+  },
+  {
+    "name": "Research Methods",
+    "category": "other"
+  },
+  {
+    "name": "Self-management",
+    "category": "other"
+  }
+]
