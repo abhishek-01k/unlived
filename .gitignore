@@ -38,3 +38,7 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# docs: keep local, only README is pushed
+*.md
+!README.md
